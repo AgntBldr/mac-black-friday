@@ -14,5 +14,6 @@
   "starts": "2026-11-20",
   "ends": "2026-12-07",
   "maker": "Enconvo",
-  "makerUrl": "https://enconvo.com"
+  "makerUrl": "https://enconvo.com",
+  "icon": "https://file.enconvo.com/circle_logo.png"
 }
