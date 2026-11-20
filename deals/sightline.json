@@ -1,0 +1,16 @@
+{
+  "name": "Sightline",
+  "url": "https://sightlinemac.com/black-friday/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "productivity",
+  "description": "Mac screenshot and screen-recording app with an image and video editor, Show Differences design-diff, and an MCP server and CLI for Claude Code and Codex.",
+  "discount": "3 months free, then yearly",
+  "code": "SIGHTLINEEARLY",
+  "terms": "Yearly plan only: first 3 months free, then $24.99/year. Monthly and lifetime not included. The code itself stays valid until Jan 7, 2027.",
+  "ends": "2026-12-15",
+  "maker": "Philipp Jahoda",
+  "makerUrl": "https://sightlinemac.com",
+  "icon": "https://sightlinemac.com/assets/icon.png"
+}
