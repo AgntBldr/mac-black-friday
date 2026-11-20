@@ -6,9 +6,16 @@
   ],
   "category": "productivity",
   "description": "Mac screenshot and screen-recording app with an image and video editor, Show Differences design-diff, and an MCP server and CLI for Claude Code and Codex.",
-  "discount": "3 months free, then yearly",
-  "code": "SIGHTLINEEARLY",
-  "terms": "Yearly plan only: first 3 months free, then $24.99/year. Monthly and lifetime not included. The code itself stays valid until Jan 7, 2027.",
+  "discount": "23% off lifetime, 3 mo free",
+  "code": "SIGHTLINELIFEDISCOUNT26",
+  "prices": [
+    {
+      "plan": "Lifetime",
+      "before": 29.99,
+      "after": 22.99
+    }
+  ],
+  "terms": "Lifetime code valid until Dec 31. Or use code SIGHTLINEEARLY: yearly plan with the first 3 months free, then $24.99/year. Monthly not included.",
   "ends": "2026-12-15",
   "maker": "Philipp Jahoda",
   "makerUrl": "https://sightlinemac.com",
