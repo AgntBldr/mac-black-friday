@@ -91,6 +91,7 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 
 | App | Platforms | What it does | Deal |
 | --- | --- | --- | --- |
+| [Blob0](https://blob0.com/) | macOS | Browse, transfer, preview and share files in Cloudflare R2, Amazon S3 and other S3-compatible storage from your Mac. | **20% off one-time licenses** · code **BLACKFRIDAY20** · Personal (one-time) ~~$16.90~~ $13.52 · Enter the code at checkout for a Personal or Team license. Ends November 30 at 23:59 UTC+8 (15:59 UTC) · until Nov 30 |
 | [Chalk](https://getchalk.dev/#pricing) | macOS | Whiteboard beside your terminal for Claude Code. Cross out, circle or reorder a step and Claude fixes its plan before it writes code. | **50% off** · One-time ~~$24~~ $12 · No code needed, applied automatically at checkout. 7-day free trial with no card or account. Paid in the app. macOS 13+ · until Dec 1 |
 | [ConnectWizard](https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580) | macOS | Unlock hidden App Store Connect Analytics. | **50% off** · License ~~$100~~ $50 · Automatically applied; no code needed; 2026-11-27 to 2026-12-1 · until Dec 1 |
 | [data-peek](https://www.datapeek.dev/pricing?utm_source=mac-black-friday) | macOS | Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse. Also on Windows and Linux. | **40% off** · Pro yearly ~~$29~~ $17.40 · Applied automatically at checkout, no code. Free for personal use; Pro is the licence for work use · until Dec 1 |

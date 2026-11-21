@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T04:18:42.817Z",
+  "updatedAt": "2026-11-21T08:13:32.482Z",
   "categories": [
     {
       "id": "ai",
@@ -332,6 +332,29 @@
       "ends": "2026-12-01",
       "starts": "2026-11-20",
       "terms": "No code needed; one-time Mac App Store unlock; 2026-11-20 to 2026-12-01"
+    },
+    {
+      "id": "blob0",
+      "name": "Blob0",
+      "url": "https://blob0.com/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "developer",
+      "discount": "20% off one-time licenses",
+      "description": "Browse, transfer, preview and share files in Cloudflare R2, Amazon S3 and other S3-compatible storage from your Mac.",
+      "code": "BLACKFRIDAY20",
+      "prices": [
+        {
+          "plan": "Personal (one-time)",
+          "before": 16.9,
+          "after": 13.52
+        }
+      ],
+      "terms": "Enter the code at checkout for a Personal or Team license. Ends November 30 at 23:59 UTC+8 (15:59 UTC).",
+      "starts": "2026-11-14",
+      "ends": "2026-11-30",
+      "maker": "Justin3go"
     },
     {
       "id": "boltai",
