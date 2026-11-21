@@ -10,6 +10,7 @@
   "prices": [
     {
       "plan": "Pro one-time",
+      "before": 12.99,
       "after": 8.99
     }
   ],
