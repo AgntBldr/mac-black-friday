@@ -1,0 +1,16 @@
+{
+  "name": "Thumbwise",
+  "url": "https://thumbwise.app",
+  "platforms": ["macOS"],
+  "category": "utilities",
+  "description": "Organize your iPhone Home Screen from your Mac: see every page side by side, get fewer-swipe layouts from your app usage, or let an AI like Claude arrange it.",
+  "discount": "30% off",
+  "code": "BLACKFRIDAY",
+  "prices": [{ "plan": "License", "before": 14.99, "after": 10.49 }],
+  "terms": "One-time purchase. Free to try. Mac with Apple silicon on macOS 15+, iPhone on iOS 27.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "maker": "Drake Wheeler",
+  "makerUrl": "https://thumbwise.app",
+  "icon": "https://thumbwise.app/assets/app-icon-256.png"
+}
