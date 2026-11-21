@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T14:25:09.732Z",
+  "updatedAt": "2026-11-21T20:11:45.077Z",
   "categories": [
     {
       "id": "ai",
@@ -3268,6 +3268,30 @@
       "maker": "Apptorium",
       "makerUrl": "https://www.apptorium.com",
       "icon": "https://www.apptorium.com/shared/sidenotes.png"
+    },
+    {
+      "id": "siftmac",
+      "name": "SiftMac",
+      "url": "https://siftmac.com/pricing",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Disk cleaner that says whether each item comes back before deleting it; anything that can't waits 7 days on an Undo Shelf.",
+      "discount": "25% off, $9 lifetime",
+      "prices": [
+        {
+          "plan": "Founding (2 Macs)",
+          "before": 12,
+          "after": 9
+        }
+      ],
+      "terms": "Applied at checkout, no code. One payment, 2 Macs, no subscription. Free scan and first 2 GB free.",
+      "starts": "2026-11-27",
+      "ends": "2026-11-30",
+      "maker": "Mohit Nippanikar",
+      "makerUrl": "https://siftmac.com",
+      "icon": "https://siftmac.com/assets/logo-512.png"
     },
     {
       "id": "simpleumsafe",
