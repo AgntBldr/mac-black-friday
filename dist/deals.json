@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T08:13:32.482Z",
+  "updatedAt": "2026-11-21T11:12:36.754Z",
   "categories": [
     {
       "id": "ai",
@@ -3728,6 +3728,31 @@
       "maker": "5KM Tech",
       "makerUrl": "https://x.com/okooo5km",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/d7/3b/afd73bfe-e8c1-03a7-a501-84950e86edaa/TimeGo-0-0-85-220-0-0-6-0-2x.png/512x512bb.png"
+    },
+    {
+      "id": "timemator",
+      "name": "Timemator",
+      "url": "https://timemator.com",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Automatic time tracking for Mac: records working time from your project files, apps and websites, and creates timesheets.",
+      "discount": "50% off Lifetime",
+      "code": "TM-BLACKFRIDAY26",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 39,
+          "after": 19.5
+        }
+      ],
+      "terms": "One-time purchase from timemator.com. Code is applied automatically on the site. Ends Dec 5, midnight Pacific.",
+      "starts": "2026-11-21",
+      "ends": "2026-12-05",
+      "maker": "Catforce Studio",
+      "makerUrl": "https://twitter.com/timemator",
+      "icon": "https://timemator.com/images/timemator-mac-icon-256w@2x.png"
     },
     {
       "id": "tinyshield",
