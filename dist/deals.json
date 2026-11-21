@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T03:42:11.340Z",
+  "updatedAt": "2026-11-21T04:18:42.817Z",
   "categories": [
     {
       "id": "ai",
@@ -3761,6 +3761,30 @@
       "ends": "2026-11-30",
       "starts": "2026-11-01",
       "terms": "MACPLUSBLACKFRIDAY26; 2026-11-01 to 2026-11-30"
+    },
+    {
+      "id": "tutti",
+      "name": "Tutti",
+      "url": "https://tutti.barrybarrywu.com/#pricing",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Native Mac menu bar app for multi-output audio, per-app volume, and display controls",
+      "discount": "30.8% off Pro",
+      "prices": [
+        {
+          "plan": "Pro one-time",
+          "before": 12.99,
+          "after": 8.99
+        }
+      ],
+      "terms": "One-time license for one Mac. No code needed. Offer ends Nov 30 at 23:59 PST.",
+      "starts": "2026-11-20",
+      "ends": "2026-11-30",
+      "maker": "Barry Wu",
+      "makerUrl": "https://tutti.barrybarrywu.com/",
+      "icon": "https://tutti.barrybarrywu.com/icon.png"
     },
     {
       "id": "typeboost",
