@@ -1,0 +1,23 @@
+{
+  "name": "DiskNinja",
+  "url": "https://diskninja.app/blackfriday/?ref=boltai",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "utilities",
+  "discount": "50% off Pro Yearly, 1st year",
+  "description": "Disk space analyzer that maps your whole disk in seconds, free. Pro adds a sorted list of big files you might not need, each with a reason.",
+  "code": "NINJABF26",
+  "prices": [
+    {
+      "plan": "Pro Yearly (first year)",
+      "before": 14.99,
+      "after": 7.49
+    }
+  ],
+  "starts": "2026-11-24",
+  "ends": "2026-12-02",
+  "terms": "New subscribers. Code at website checkout, or the Mac App Store offer code link on the page. Scanning is always free.",
+  "makerUrl": "https://diskninja.app",
+  "icon": "https://diskninja.app/assets/diskninja-icon-512.png"
+}
