@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T14:14:53.682Z",
+  "updatedAt": "2026-11-21T14:25:09.732Z",
   "categories": [
     {
       "id": "ai",
@@ -3020,6 +3020,30 @@
       "ends": "2026-12-01",
       "maker": "Alex Styl",
       "makerUrl": "https://x.com/alexstyl"
+    },
+    {
+      "id": "roost",
+      "name": "Roost",
+      "url": "https://roostmail.app/black-friday",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "description": "Native Mac mail app for many inboxes: several Gmails, Outlook, iCloud, Zoho, Yandex and any IMAP in one keyboard-first window. Mail stays on your Mac.",
+      "discount": "Launch price $25",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 29,
+          "after": 25
+        }
+      ],
+      "terms": "No code. One licence: 3 Macs, every future update, no subscription. After Dec 1: $29 for the first 100 licences, then $49. macOS 15+.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "maker": "Telman Gadimov",
+      "makerUrl": "https://roostmail.app",
+      "icon": "https://roostmail.app/assets/brand/icon-512.png"
     },
     {
       "id": "rsstube",
