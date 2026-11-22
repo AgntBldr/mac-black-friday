@@ -1,0 +1,15 @@
+{
+  "name": "DeskStag",
+  "url": "https://deskstag.com/black-friday.html",
+  "platforms": ["macOS"],
+  "category": "utilities",
+  "description": "Name your Mac desktops: your own names and colours on each desktop, right inside Mission Control.",
+  "discount": "30% off",
+  "code": "FRIDAY30",
+  "prices": [{ "plan": "One-time", "before": 23.99, "after": 16.79 }],
+  "terms": "One-time purchase with a 14-day free trial. Apple Silicon, macOS 13 or later.",
+  "starts": "2026-11-22",
+  "ends": "2026-12-01",
+  "maker": "Spark 365 Ltd",
+  "makerUrl": "https://deskstag.com"
+}
