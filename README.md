@@ -137,6 +137,7 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 
 | App | Platforms | What it does | Deal |
 | --- | --- | --- | --- |
+| [BabaPic](https://www.babapic.cc/) | macOS | Batch compress, convert, resize and rename images on Mac in one pass — fully local, no uploads. | **50% off Pro, code BABAPIC2026** · code **BABAPIC2026** · Pro ~~$19~~ $9.50 · One-time purchase. 50% off BabaPic Pro with code BABAPIC2026. Ends Dec 31, 2026 · until Dec 15 |
 | [Bindrik](https://bindrik.com/en) | macOS | Create Amazon KDP book interiors and covers with calculated bleed, gutter, and spine width, offline on Mac. | **43% off ($69 → $39)** · code **BLACKFRIDAY2026** · License ~~$69~~ $39 · BLACKFRIDAY2026; one-time purchase; 2026-11-23 to 2026-11-30 · until Nov 30 |
 | [BirdFrame](https://getbirdframe.com/) | macOS | Batch-crop bird photos at full resolution on Mac, from Apple Photos or a folder. | **33% off ($29.99 → $19.99)** · License ~~$29.99~~ $19.99 · No code needed; one-time Mac App Store unlock; 2026-11-20 to 2026-12-01 · until Dec 1 |
 | [Digital Photo Frame App](https://digitalphotoframeapp.com/) | iOS, iPadOS, macOS, visionOS | Turns your iPhone, iPad, Mac or Apple TV into a digital photo frame, with slideshows from iCloud shared albums and Google Photos. | **50% off yearly** · Yearly Premium ~~$19.99~~ $9.99 · No code needed; the lower yearly price applies automatically in the app during the sale · until Dec 1 |
