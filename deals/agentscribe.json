@@ -1,0 +1,22 @@
+{
+  "name": "AgentScribe",
+  "url": "https://psychosonicconsulting.com/agentscribe/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "ai",
+  "description": "Gives the AI apps you use one memory they share. Nothing an assistant writes is kept until you approve it. One file on your Mac, no network access.",
+  "discount": "25% off",
+  "prices": [
+    {
+      "plan": "One time purchase",
+      "before": 19.99,
+      "after": 14.99
+    }
+  ],
+  "terms": "Mac App Store, one time purchase, no subscription. No code needed. The price changes on Nov 27.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "maker": "Psychosonic Consulting",
+  "makerUrl": "https://psychosonicconsulting.com"
+}
