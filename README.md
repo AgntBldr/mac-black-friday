@@ -271,6 +271,7 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 | [Erla](https://erla.app/black-friday) | iOS, iPadOS | Learn a language by understanding it: listen to and read short stories, watch short videos, then talk with an AI teacher. 22 languages, one app each | **70% off the first year** · code **BLACKFRIDAY** · PRO annual, first year ~~$59.99~~ $18 · 7 days free first. New subscribers only; renews at the regular price, cancel anytime. Redeem via erla.app/black-friday · until Nov 30 |
 | [Nihongo - Japanese Dictionary](https://nihongo-app.com/) | iOS, iPadOS | Japanese dictionary for iPhone and iPad with camera lookup and flashcards automatically created from the words you look up. | **50% off** · Nihongo Pro lifetime purchase. Automatic in-app discount; no code needed · until Dec 2 |
 | [Nihongo Lessons](https://lessons.nihongo-app.com/) | iOS | Learn Japanese vocabulary and grammar with sentence-based flashcards that build on what you already know. | **50% off** · All access pass, a lifetime in-app purchase. Automatic discount; no code needed · until Dec 2 |
+| [Zhenzhu](https://zhenzhu.app/#pricing) | macOS | Native macOS menu-bar Chinese pop-up dictionary and sentence mining app with on-device OCR, local FSRS flashcards, and AnkiConnect export. | **69% off Lifetime ($29 → $9)** · code **BF2026** · Pro Lifetime ~~$29~~ $9 · One-time purchase covering 3 Macs and all future updates. Free tier available forever. Code applied automatically via zhenzhu.app/buy. Requires macOS 15+ · until Dec 1 |
 
 ### Games
 
