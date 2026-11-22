@@ -263,6 +263,7 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 | App | Platforms | What it does | Deal |
 | --- | --- | --- | --- |
 | [Beat Chess! Coach](https://apps.apple.com/us/app/beat-chess-coach/id6828699930) | iOS, iPadOS | Play 14 chess coaches that explain every move, and find the mistakes you keep making in your Lichess and Chess.com games, with Stockfish 19 on-device. | **40% off Full** · Full ~~$4.99~~ $2.99 · until Nov 30 |
+| [Erla](https://erla.app/black-friday) | iOS, iPadOS | Learn a language by understanding it: listen to and read short stories, watch short videos, then talk with an AI teacher. 22 languages, one app each | **70% off the first year** · code **BLACKFRIDAY** · PRO annual, first year ~~$59.99~~ $18 · 7 days free first. New subscribers only; renews at the regular price, cancel anytime. Redeem via erla.app/black-friday · until Nov 30 |
 | [Nihongo - Japanese Dictionary](https://nihongo-app.com/) | iOS, iPadOS | Japanese dictionary for iPhone and iPad with camera lookup and flashcards automatically created from the words you look up. | **50% off** · Nihongo Pro lifetime purchase. Automatic in-app discount; no code needed · until Dec 2 |
 | [Nihongo Lessons](https://lessons.nihongo-app.com/) | iOS | Learn Japanese vocabulary and grammar with sentence-based flashcards that build on what you already know. | **50% off** · All access pass, a lifetime in-app purchase. Automatic discount; no code needed · until Dec 2 |
 
