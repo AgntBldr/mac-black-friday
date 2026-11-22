@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T11:12:36.754Z",
+  "updatedAt": "2026-11-22T17:30:28.372Z",
   "categories": [
     {
       "id": "ai",
@@ -211,6 +211,29 @@
       "terms": "BLACKFRIDAY26; keep the app with one year of updates; 2026-11-24 to 2026-12-01"
     },
     {
+      "id": "babapic",
+      "name": "BabaPic",
+      "url": "https://www.babapic.cc/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "design",
+      "discount": "50% off Pro, code BABAPIC2026",
+      "description": "Batch compress, convert, resize and rename images on Mac in one pass — fully local, no uploads.",
+      "code": "BABAPIC2026",
+      "prices": [
+        {
+          "plan": "Pro",
+          "before": 19,
+          "after": 9.5
+        }
+      ],
+      "terms": "One-time purchase. 50% off BabaPic Pro with code BABAPIC2026. Ends Dec 31, 2026.",
+      "starts": "2026-11-22",
+      "ends": "2026-12-15",
+      "makerUrl": "https://www.babapic.cc/"
+    },
+    {
       "id": "barcodecraft",
       "name": "BarcodeCraft",
       "url": "https://www.barcodecraft.com/black-friday",
@@ -289,6 +312,29 @@
       "terms": "BLACKFRIDAY20; entered at checkout; one-time purchase; macOS 14 or later; 2026-11-23 to 2026-11-30",
       "maker": "Terry",
       "makerUrl": "https://x.com/terrytz"
+    },
+    {
+      "id": "bibliome-library",
+      "name": "Bibliome Library",
+      "url": "https://psychosonicconsulting.com/bibliome",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "reading",
+      "description": "A Mac PDF library that files, searches and answers questions about your documents with an on device model. Nothing is uploaded.",
+      "discount": "33% off",
+      "prices": [
+        {
+          "plan": "One time purchase",
+          "before": 29.99,
+          "after": 19.99
+        }
+      ],
+      "terms": "Mac App Store, one time purchase, no subscription. No code needed. The price changes on Nov 27.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "maker": "Psychosonic Consulting",
+      "makerUrl": "https://psychosonicconsulting.com"
     },
     {
       "id": "bindrik",
@@ -539,6 +585,27 @@
       "starts": "2026-11-13",
       "terms": "Launch price $19.99 through 2 Dec, then $39 from 3 Dec. No code: the Buy button applies it. Pay once, 30-day refund. Free version: score and top problem.",
       "maker": "Matthew Kerr"
+    },
+    {
+      "id": "checkcam",
+      "name": "CheckCam",
+      "url": "https://checkcam.zorrinapps.com/#black-friday",
+      "platforms": [
+        "iOS"
+      ],
+      "category": "utilities",
+      "discount": "Lifetime $7.49",
+      "description": "Snap quick photo reminders without cluttering your camera roll. CheckCam auto-deletes temporary shots unless you pin them.",
+      "code": "BFCM26",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 14.99,
+          "after": 7.49
+        }
+      ],
+      "ends": "2026-12-01",
+      "terms": "Valid through December 1, 2026 (Pacific Time), while redemptions last. US prices shown; local prices and availability may vary."
     },
     {
       "id": "chronoid",
@@ -865,6 +932,26 @@
       "terms": "App Store and Google Play: no code. Desktop-only Pro: BF2026. One-time purchase. Lifetime Pro includes every Deckloud app we add, including Calendar and Mail."
     },
     {
+      "id": "deletti",
+      "name": "Deletti",
+      "url": "https://deletti.app/#black-friday",
+      "platforms": [
+        "iOS"
+      ],
+      "category": "launch",
+      "discount": "Launch price $8.99",
+      "description": "A not-boring way to free up space on your iPhone. Start with your biggest videos and photos, then swipe to keep or trash them.",
+      "code": "BFCM26",
+      "prices": [
+        {
+          "plan": "Single Lifetime",
+          "after": 8.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "terms": "Valid through December 1, 2026 (Pacific Time), while redemptions last. US prices shown; local prices and availability may vary."
+    },
+    {
       "id": "deltasnap",
       "name": "DeltaSnap",
       "url": "https://scaleninja.com/deltasnap/",
@@ -906,6 +993,30 @@
       ],
       "starts": "2026-11-15",
       "ends": "2026-12-01"
+    },
+    {
+      "id": "deskstag",
+      "name": "DeskStag",
+      "url": "https://deskstag.com/black-friday.html",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Name your Mac desktops: your own names and colours on each desktop, right inside Mission Control.",
+      "discount": "30% off",
+      "code": "FRIDAY30",
+      "prices": [
+        {
+          "plan": "One-time",
+          "before": 23.99,
+          "after": 16.79
+        }
+      ],
+      "terms": "One-time purchase with a 14-day free trial. Apple Silicon, macOS 13 or later.",
+      "starts": "2026-11-22",
+      "ends": "2026-12-01",
+      "maker": "Spark 365 Ltd",
+      "makerUrl": "https://deskstag.com"
     },
     {
       "id": "desktop-composer",
@@ -988,6 +1099,30 @@
       "ends": "2026-12-01",
       "maker": "Manuel Escrig",
       "makerUrl": "https://digitalphotoframeapp.com/"
+    },
+    {
+      "id": "diskninja",
+      "name": "DiskNinja",
+      "url": "https://diskninja.app/blackfriday/?ref=boltai",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "discount": "Launch price $7.49",
+      "description": "Disk space analyzer that maps your whole disk in seconds, free. Pro adds a sorted list of big files you might not need, each with a reason.",
+      "code": "NINJABF26",
+      "prices": [
+        {
+          "plan": "Pro Yearly (first year)",
+          "before": 14.99,
+          "after": 7.49
+        }
+      ],
+      "starts": "2026-11-24",
+      "ends": "2026-12-02",
+      "terms": "New subscribers. Code at website checkout, or the Mac App Store offer code link on the page. Scanning is always free.",
+      "makerUrl": "https://diskninja.app",
+      "icon": "https://diskninja.app/assets/diskninja-icon-512.png"
     },
     {
       "id": "displaybuddy",
@@ -1162,6 +1297,27 @@
       "icon": "https://duotyping.com/apple-touch-icon.png"
     },
     {
+      "id": "earmix",
+      "name": "Earmix",
+      "url": "https://earmix.app/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "description": "Volume mixer for the Mac menu bar: per-app and per-tab volume, an output per app, and EQ.",
+      "discount": "Launch price $6.50",
+      "code": "BLACKFRIDAY50",
+      "prices": [
+        {
+          "plan": "Licence",
+          "before": 12.99,
+          "after": 6.5
+        }
+      ],
+      "terms": "50% off with code BLACKFRIDAY50 at checkout through 1 Dec. Regular price $12.99. Released 3 Nov 2026. Pay once, free trial.",
+      "ends": "2026-12-01"
+    },
+    {
       "id": "email-me",
       "name": "Email Me",
       "url": "https://www.emailmeapp.net/",
@@ -1246,6 +1402,32 @@
       "icon": "https://file.enconvo.com/circle_logo.png"
     },
     {
+      "id": "erla",
+      "name": "Erla",
+      "url": "https://erla.app/black-friday",
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "education",
+      "description": "Learn a language by understanding it: listen to and read short stories, watch short videos, then talk with an AI teacher. 22 languages, one app each",
+      "discount": "70% off the first year",
+      "code": "BLACKFRIDAY",
+      "prices": [
+        {
+          "plan": "PRO annual, first year",
+          "before": 59.99,
+          "after": 18
+        }
+      ],
+      "terms": "7 days free first. New subscribers only; renews at the regular price, cancel anytime. Redeem via erla.app/black-friday",
+      "starts": "2026-11-12",
+      "ends": "2026-11-30",
+      "maker": "Erla",
+      "makerUrl": "https://erla.app",
+      "icon": "https://erla.app/web-app-manifest-512x512.png"
+    },
+    {
       "id": "everlog-journal",
       "name": "Everlog Journal",
       "url": "https://apps.apple.com/app/everlog-journal/id1519935634",
@@ -1274,6 +1456,28 @@
       "ends": "2026-12-01",
       "maker": "Wessley Roche",
       "makerUrl": "https://everlog.app"
+    },
+    {
+      "id": "evidencelens",
+      "name": "EvidenceLens",
+      "url": "https://apps.apple.com/redeem?ctx=offercodes&id=6762130726&code=BW2026",
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "launch",
+      "discount": "Launch price $26.99",
+      "description": "Summarize YouTube videos, articles, and PDFs. Check individual claims against published research and open the cited papers.",
+      "code": "BW2026",
+      "prices": [
+        {
+          "plan": "Plus Lifetime",
+          "before": 44.99,
+          "after": 26.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "terms": "One-time purchase. Prices shown are for the US App Store. Ends December 1, 2026 at 09:00 CET (08:00 UTC)."
     },
     {
       "id": "extrabar",
@@ -1373,6 +1577,26 @@
       ],
       "ends": "2026-11-30",
       "terms": "23-30 Nov. Code: BLKFRD26"
+    },
+    {
+      "id": "findow",
+      "name": "Findow",
+      "url": "https://findowmac.com/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "description": "Scrolling window manager for Mac, with tiling, a window switcher and saved workspaces.",
+      "discount": "Launch price $5",
+      "prices": [
+        {
+          "plan": "Licence",
+          "before": 19.99,
+          "after": 5
+        }
+      ],
+      "terms": "$5 through 1 Dec, applied at checkout, no code needed. Regular price $19.99. Released 31 Oct 2026. Pay once, free trial.",
+      "ends": "2026-12-01"
     },
     {
       "id": "float",
@@ -2998,6 +3222,30 @@
       "makerUrl": "https://x.com/alexstyl"
     },
     {
+      "id": "roost",
+      "name": "Roost",
+      "url": "https://roostmail.app/black-friday",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "description": "Native Mac mail app for many inboxes: several Gmails, Outlook, iCloud, Zoho, Yandex and any IMAP in one keyboard-first window. Mail stays on your Mac.",
+      "discount": "Launch price $25",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 29,
+          "after": 25
+        }
+      ],
+      "terms": "No code. One licence: 3 Macs, every future update, no subscription. After Dec 1: $29 for the first 100 licences, then $49. macOS 15+.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "maker": "Telman Gadimov",
+      "makerUrl": "https://roostmail.app",
+      "icon": "https://roostmail.app/assets/brand/icon-512.png"
+    },
+    {
       "id": "rsstube",
       "name": "RSSTube",
       "url": "https://apps.apple.com/app/apple-store/id6828141995?pt=119343303&ct=bf26-boltai&mt=8",
@@ -3034,6 +3282,31 @@
       "ends": "2026-11-30",
       "starts": "2026-11-24",
       "terms": "Automatically applied to the one-time in-app purchase. No code needed. November 24–30, 2026."
+    },
+    {
+      "id": "screenpost",
+      "name": "ScreenPost",
+      "url": "https://screenpost.app/buy?promo=LAUNCH19&ref=boltai",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Native Mac app: capture screenshots, recordings and GIFs, auto-redact secrets, and post to X in seconds.",
+      "discount": "$19 instead of $29",
+      "code": "LAUNCH19",
+      "prices": [
+        {
+          "plan": "One-time",
+          "before": 29,
+          "after": 19
+        }
+      ],
+      "terms": "Code LAUNCH19 is pre-applied at checkout. Every feature, 1 year of updates, up to 3 Macs. Ends 1 Dec 2026, 23:59 PT.",
+      "starts": "2026-11-24",
+      "ends": "2026-12-01",
+      "maker": "Luca Mazzi",
+      "makerUrl": "https://x.com/luca_mazzi",
+      "icon": "https://screenpost.app/favicon.png"
     },
     {
       "id": "screensage-pro",
@@ -3129,6 +3402,26 @@
       "terms": "with code BLACKFRIDAY at appsbymo.app ($24 $12). Nov 9 - Dec 1, 2026"
     },
     {
+      "id": "secretshot",
+      "name": "SecretShot",
+      "url": "https://secretshot.zorrinapps.com/#black-friday",
+      "platforms": [
+        "iOS"
+      ],
+      "category": "launch",
+      "discount": "Launch price $14.99",
+      "description": "Keep private photos and videos in a PIN-protected vault that looks like a working calculator, currency converter, or puzzle.",
+      "code": "BFCM26",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "after": 14.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "terms": "Valid through December 1, 2026 (Pacific Time), while redemptions last. US prices shown; local prices and availability may vary."
+    },
+    {
       "id": "shellhistory",
       "name": "ShellHistory",
       "url": "https://loshadki.app/shellhistory/",
@@ -3220,6 +3513,54 @@
       "maker": "Apptorium",
       "makerUrl": "https://www.apptorium.com",
       "icon": "https://www.apptorium.com/shared/sidenotes.png"
+    },
+    {
+      "id": "siftmac",
+      "name": "SiftMac",
+      "url": "https://siftmac.com/pricing",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Disk cleaner that says whether each item comes back before deleting it; anything that can't waits 7 days on an Undo Shelf.",
+      "discount": "25% off, $9 lifetime",
+      "prices": [
+        {
+          "plan": "Founding (2 Macs)",
+          "before": 12,
+          "after": 9
+        }
+      ],
+      "terms": "Applied at checkout, no code. One payment, 2 Macs, no subscription. Free scan and first 2 GB free.",
+      "starts": "2026-11-27",
+      "ends": "2026-11-30",
+      "maker": "Mohit Nippanikar",
+      "makerUrl": "https://siftmac.com",
+      "icon": "https://siftmac.com/assets/logo-512.png"
+    },
+    {
+      "id": "sightline",
+      "name": "Sightline",
+      "url": "https://sightlinemac.com/black-friday/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Mac screenshot and screen-recording app with an image and video editor, Show Differences design-diff, and an MCP server and CLI for Claude Code and Codex.",
+      "discount": "23% off lifetime, 3 mo free",
+      "code": "SIGHTLINELIFEDISCOUNT26",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 29.99,
+          "after": 22.99
+        }
+      ],
+      "terms": "Lifetime code valid until Dec 31. Or use code SIGHTLINEEARLY: yearly plan with the first 3 months free, then $24.99/year. Monthly not included.",
+      "ends": "2026-12-15",
+      "maker": "Philipp Jahoda",
+      "makerUrl": "https://sightlinemac.com",
+      "icon": "https://sightlinemac.com/assets/icon.png"
     },
     {
       "id": "simpleumsafe",
@@ -3368,6 +3709,40 @@
       "ends": "2026-12-01"
     },
     {
+      "id": "snapperon",
+      "name": "Snapperon",
+      "url": "https://snapperon.com/#pricing",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "discount": "50% off all Pro plans",
+      "description": "Annotate screenshots, redact private details, and extract text on your Mac. Copy the finished image straight into a message or document.",
+      "code": "BLACKFRIDAY26",
+      "prices": [
+        {
+          "plan": "Monthly (first 12 months)",
+          "before": 2,
+          "after": 1
+        },
+        {
+          "plan": "Annual (first year)",
+          "before": 19.99,
+          "after": 10
+        },
+        {
+          "plan": "Lifetime",
+          "before": 38.99,
+          "after": 19.5
+        }
+      ],
+      "terms": "Web only. Monthly renews at $2/month after 12 months. Annual renews at $19.99/year after one year. Lifetime is one payment. Ends 11:59 p.m. Toronto time.",
+      "starts": "2026-11-20",
+      "ends": "2026-12-01",
+      "maker": "Snapperon Team",
+      "makerUrl": "https://snapperon.com"
+    },
+    {
       "id": "snaptidy-photo-swipe-delete",
       "name": "SnapTidy: Photo Swipe & Delete",
       "url": "https://snaptidyapp.github.io/snaptidy-site/blackfriday/",
@@ -3446,6 +3821,31 @@
       "ends": "2026-12-01",
       "starts": "2026-11-27",
       "terms": "Automatically applied at checkout; one-time license for up to 3 Macs; 2026-11-27 to 2026-12-01 (Pacific time)"
+    },
+    {
+      "id": "spatialtap",
+      "name": "SpatialTap",
+      "url": "https://spatialtap.com",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "audio-video",
+      "description": "Turns on Apple's own spatial audio, with head tracking, for Spotify, Chrome, Firefox, VLC and other Mac apps on AirPods and Beats.",
+      "discount": "30% off ($9.99 → $6.99)",
+      "code": "BLACKFRIDAY26",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 9.99,
+          "after": 6.99
+        }
+      ],
+      "starts": "2026-11-27",
+      "ends": "2026-11-30",
+      "terms": "One-time purchase, 3 Macs per license. 7-day free trial, no account. Apple silicon, macOS 14.2+.",
+      "maker": "SpatialTap",
+      "makerUrl": "https://spatialtap.com",
+      "icon": "https://spatialtap.com/icon-v2-256.png"
     },
     {
       "id": "sponge",
@@ -3528,6 +3928,34 @@
       "ends": "2026-11-30",
       "starts": "2026-11-27",
       "terms": "Discount available from Nov 27 to Nov 30. During the discount period go to Settings -> SubManager+ to purchase."
+    },
+    {
+      "id": "subsday",
+      "name": "SubsDay",
+      "url": "https://subsday.appps.od.ua/",
+      "platforms": [
+        "macOS",
+        "iOS"
+      ],
+      "category": "finance",
+      "description": "Track subscriptions and upcoming charges in a calendar, with imports from the App Store, Notion, and Google Sheets.",
+      "discount": "40% off Lifetime",
+      "code": "BLKFR2026",
+      "prices": [
+        {
+          "plan": "Single Lifetime",
+          "before": 19.99,
+          "after": 11.99
+        },
+        {
+          "plan": "Family Lifetime",
+          "before": 26.99,
+          "after": 15.99
+        }
+      ],
+      "terms": "Use BLKFR2026 for Single or BLKFR2026FAMILY for Family. The website links to both App Store offers.",
+      "starts": "2026-11-15",
+      "ends": "2026-12-01"
     },
     {
       "id": "sunrise",
@@ -3706,6 +4134,31 @@
       "maker": "Hraness"
     },
     {
+      "id": "thumbwise",
+      "name": "Thumbwise",
+      "url": "https://thumbwise.app",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Organize your iPhone Home Screen from your Mac: see every page side by side, get fewer-swipe layouts from your app usage, or let an AI like Claude arrange it.",
+      "discount": "30% off",
+      "code": "BLACKFRIDAY",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 14.99,
+          "after": 10.49
+        }
+      ],
+      "terms": "One-time purchase. Free to try. Mac with Apple silicon on macOS 15+, iPhone on iOS 27.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "maker": "Drake Wheeler",
+      "makerUrl": "https://thumbwise.app",
+      "icon": "https://thumbwise.app/assets/app-icon-256.png"
+    },
+    {
       "id": "timego-clock",
       "name": "TimeGo Clock",
       "url": "https://apps.apple.com/app/apple-store/id6448658165?pt=126247175&ct=bf2026-boltai&mt=12",
@@ -3768,6 +4221,80 @@
       "ends": "2026-12-03",
       "starts": "2026-11-16",
       "terms": "BF2026; 2026-11-16 to 2026-12-03"
+    },
+    {
+      "id": "toolnotch",
+      "name": "Toolnotch",
+      "url": "https://toolnotch.app/pricing?ref=boltai-bf",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "description": "Turns the MacBook notch into a live island: window snapping, clipboard history, AI usage limits, break reminders and more.",
+      "discount": "Launch price $4.99",
+      "code": "BOLTAIBF",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 9.99,
+          "after": 4.99
+        }
+      ],
+      "starts": "2026-11-20",
+      "ends": "2026-12-15",
+      "terms": "Code BOLTAIBF keeps $4.99 after the first 10 launch spots. One-time purchase, all future tools included. macOS 15+.",
+      "makerUrl": "https://x.com/hijooh_"
+    },
+    {
+      "id": "toplify",
+      "name": "Toplify",
+      "url": "https://toplify.app/",
+      "platforms": [
+        "macOS",
+        "iOS"
+      ],
+      "category": "developer",
+      "description": "Track App Store chart positions across 175 countries and get alerts when your apps move in the rankings.",
+      "discount": "37% off Lifetime",
+      "code": "BLKFR2026",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 79.99,
+          "after": 49.99
+        }
+      ],
+      "starts": "2026-11-15",
+      "ends": "2026-12-01"
+    },
+    {
+      "id": "totalfigures",
+      "name": "TotalFigures",
+      "url": "https://totalfigures.app/?ref=bf26-boltai",
+      "platforms": [
+        "iOS"
+      ],
+      "category": "finance",
+      "discount": "88% off Premium",
+      "description": "Know where your money goes and whether you're getting ahead, with your net worth and every transaction tracked in one private app.",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 79.99,
+          "after": 9.59
+        },
+        {
+          "plan": "Yearly, first year",
+          "before": 29.99,
+          "after": 3.59
+        }
+      ],
+      "starts": "2026-11-21",
+      "ends": "2026-12-03",
+      "terms": "Applied automatically on the App Store, no code. Yearly: new subscribers, then $29.99/year, until Dec 2. Free to download. US prices.",
+      "maker": "Alex Titarenko",
+      "makerUrl": "https://totalfigures.app",
+      "icon": "https://totalfigures.app/icon-512.png"
     },
     {
       "id": "transcrybe",
@@ -4251,6 +4778,31 @@
       "starts": "2026-11-18",
       "ends": "2026-12-02",
       "maker": "Hraness"
+    },
+    {
+      "id": "zhenzhu",
+      "name": "Zhenzhu",
+      "url": "https://zhenzhu.app/#pricing",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "education",
+      "description": "Native macOS menu-bar Chinese pop-up dictionary and sentence mining app with on-device OCR, local FSRS flashcards, and AnkiConnect export.",
+      "discount": "69% off Lifetime ($29 → $9)",
+      "code": "BF2026",
+      "prices": [
+        {
+          "plan": "Pro Lifetime",
+          "before": 29,
+          "after": 9
+        }
+      ],
+      "terms": "One-time purchase covering 3 Macs and all future updates. Free tier available forever. Code applied automatically via zhenzhu.app/buy. Requires macOS 15+.",
+      "starts": "2026-11-22",
+      "ends": "2026-12-01",
+      "maker": "Minh Nguyen",
+      "makerUrl": "https://zhenzhu.app",
+      "icon": "https://zhenzhu.app/app-icon.png"
     },
     {
       "id": "zipic",

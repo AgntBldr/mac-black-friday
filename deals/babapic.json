@@ -1,0 +1,22 @@
+{
+  "name": "BabaPic",
+  "url": "https://www.babapic.cc/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "design",
+  "discount": "50% off Pro, code BABAPIC2026",
+  "description": "Batch compress, convert, resize and rename images on Mac in one pass — fully local, no uploads.",
+  "code": "BABAPIC2026",
+  "prices": [
+    {
+      "plan": "Pro",
+      "before": 19,
+      "after": 9.5
+    }
+  ],
+  "terms": "One-time purchase. 50% off BabaPic Pro with code BABAPIC2026. Ends Dec 31, 2026.",
+  "starts": "2026-11-22",
+  "ends": "2026-12-15",
+  "makerUrl": "https://www.babapic.cc/"
+}
