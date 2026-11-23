@@ -1,0 +1,24 @@
+{
+  "name": "TabLinker",
+  "url": "https://apps.apple.com/us/app/tablinker-tabs-manager/id6758283574?platform=mac",
+  "platforms": [
+    "macOS",
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "productivity",
+  "discount": "45% off Lifetime Pro",
+  "description": "Mac-first browser session manager. Save, back up and restore tabs and windows across multiple browsers, organize links and sync with iCloud.",
+  "prices": [
+    {
+      "plan": "Lifetime Pro",
+      "before": 17.99,
+      "after": 9.99
+    }
+  ],
+  "terms": "One-time in-app purchase. Discount automatically applied, no code required.",
+  "starts": "2026-11-23",
+  "ends": "2026-12-01",
+  "makerUrl": "https://x.com/huyhnnn",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/a0/6f/81a06f16-f091-d5d4-9fab-f334e0b6756f/Placeholder.mill/400x400Icon.ApSiOS01-75.webp"
+}
