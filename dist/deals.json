@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T14:13:50.711Z",
+  "updatedAt": "2026-11-23T15:02:02.172Z",
   "categories": [
     {
       "id": "ai",
@@ -4891,6 +4891,56 @@
       "ends": "2026-11-30",
       "terms": "Redeem via the App Store link or enter BF26 in the UScale paywall. Prices shown are for the US App Store. Eligibility applies.",
       "addedAt": "2026-11-20T11:35:13.000Z"
+    },
+    {
+      "id": "voibe",
+      "name": "Voibe",
+      "url": "https://www.getvoibe.com/pricing/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "ai",
+      "description": "Private AI dictation and bot-free meeting notes for Mac and Windows.",
+      "discount": "25% off every plan",
+      "code": "BFCM26",
+      "prices": [
+        {
+          "plan": "Dictation monthly",
+          "before": 9.9,
+          "after": 7.43
+        },
+        {
+          "plan": "Dictation annual",
+          "before": 99,
+          "after": 74.25
+        },
+        {
+          "plan": "Dictation lifetime",
+          "before": 199,
+          "after": 149.25
+        },
+        {
+          "plan": "Work monthly",
+          "before": 19,
+          "after": 14.25
+        },
+        {
+          "plan": "Work annual",
+          "before": 149,
+          "after": 111.75
+        },
+        {
+          "plan": "Work lifetime",
+          "before": 399,
+          "after": 299.25
+        }
+      ],
+      "terms": "Monthly plans keep 25% off every month. Also available on Windows.",
+      "ends": "2026-11-30",
+      "maker": "Voibe",
+      "makerUrl": "https://www.getvoibe.com/",
+      "icon": "https://www.getvoibe.com/icon.iconset/icon_512x512.png",
+      "addedAt": "2026-11-23T15:01:51.000Z"
     },
     {
       "id": "voiceink",
