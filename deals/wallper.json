@@ -1,0 +1,27 @@
+{
+  "name": "Wallper",
+  "url": "https://www.wallper.app/pricing",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "utilities",
+  "description": "Moving 4K wallpapers for your Mac desktop and Lock Screen. Play a song and the desktop plays along, with the cover, its colors or the lyrics.",
+  "discount": "50% off Pro and Pro+",
+  "prices": [
+    {
+      "plan": "Pro, 3 Macs (one-time)",
+      "before": 14.99,
+      "after": 7.49
+    },
+    {
+      "plan": "Pro+, 5 Macs (one-time)",
+      "before": 24.99,
+      "after": 12.49
+    }
+  ],
+  "terms": "No code: the price applies at checkout. Lifetime license with free updates. 7-day free trial. Ends Dec 1, 00:00 UTC.",
+  "starts": "2026-11-23",
+  "ends": "2026-11-30",
+  "maker": "Sandimax",
+  "makerUrl": "https://www.wallper.app"
+}
