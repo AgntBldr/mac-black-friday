@@ -1,0 +1,15 @@
+{
+  "name": "ScreenKite",
+  "url": "https://screenkite.com/pricing",
+  "platforms": ["macOS"],
+  "category": "audio-video",
+  "discount": "30% off Pro, 40% off Founders",
+  "description": "Native Mac screen recorder with a full editor built in, no need for a separate editor. Edit with your own AI agent. Pay once, keep it forever.",
+  "code": "BFCM",
+  "prices": [
+    { "plan": "Pro", "before": 49.99, "after": 34.99 },
+    { "plan": "Founders Edition", "before": 139.99, "after": 83.99 }
+  ],
+  "ends": "2026-12-01",
+  "makerUrl": "https://x.com/realMikeChong"
+}
