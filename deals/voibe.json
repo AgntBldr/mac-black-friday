@@ -1,0 +1,22 @@
+{
+  "name": "Voibe",
+  "url": "https://www.getvoibe.com/pricing/",
+  "platforms": ["macOS"],
+  "category": "ai",
+  "description": "Private AI dictation and bot-free meeting notes for Mac and Windows.",
+  "discount": "25% off every plan",
+  "code": "BFCM26",
+  "prices": [
+    { "plan": "Dictation monthly", "before": 9.9, "after": 7.43 },
+    { "plan": "Dictation annual", "before": 99, "after": 74.25 },
+    { "plan": "Dictation lifetime", "before": 199, "after": 149.25 },
+    { "plan": "Work monthly", "before": 19, "after": 14.25 },
+    { "plan": "Work annual", "before": 149, "after": 111.75 },
+    { "plan": "Work lifetime", "before": 399, "after": 299.25 }
+  ],
+  "terms": "Monthly plans keep 25% off every month. Also available on Windows.",
+  "ends": "2026-11-30",
+  "maker": "Voibe",
+  "makerUrl": "https://www.getvoibe.com/",
+  "icon": "https://www.getvoibe.com/icon.iconset/icon_512x512.png"
+}
