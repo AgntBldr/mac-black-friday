@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T11:12:20.018Z",
+  "updatedAt": "2026-11-23T11:12:50.399Z",
   "categories": [
     {
       "id": "ai",
@@ -76,7 +76,7 @@
       "code": "MACPLUSBLACKFRIDAY26",
       "prices": [
         {
-          "plan": "Lifetime",
+          "plan": "Standard",
           "before": 19.99,
           "after": 13.99
         }
@@ -1297,7 +1297,7 @@
       "code": "MACPLUSBLACKFRIDAY26",
       "prices": [
         {
-          "plan": "Lifetime",
+          "plan": "Standard",
           "before": 14.99,
           "after": 10.49
         }
@@ -4312,7 +4312,7 @@
       "code": "MACPLUSBLACKFRIDAY26",
       "prices": [
         {
-          "plan": "Lifetime",
+          "plan": "Standard",
           "before": 19.99,
           "after": 13.99
         }
