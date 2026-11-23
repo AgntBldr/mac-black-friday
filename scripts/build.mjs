@@ -1,10 +1,21 @@
 // Writes dist/deals.json (read by boltai.com/blackfriday) and the deal tables in README.md.
+import { execFileSync } from 'node:child_process'
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { readCategories, readDeals, root } from './lib.mjs'
 
 const categories = readCategories()
-const deals = readDeals().map(({ file, deal }) => ({ id: file.replace(/\.json$/, ''), ...deal }))
+
+// addedAt: when the deal file landed on main (the merge commit for pull requests), newest add wins if a file was re-added.
+// The page sorts by it. Needs full history (fetch-depth: 0 in the workflow); files not committed yet get the build time.
+const addedAt = {}
+let when = null
+for (const line of execFileSync('git', ['log', '--first-parent', '--diff-filter=A', '--name-only', '--format=@%cI', '--', 'deals'], { cwd: root, encoding: 'utf8' }).split('\n')) {
+  if (line.startsWith('@')) when = new Date(line.slice(1)).toISOString()
+  else if (line.startsWith('deals/') && !addedAt[line]) addedAt[line] = when
+}
+const now = new Date().toISOString()
+const deals = readDeals().map(({ file, deal }) => ({ id: file.replace(/\.json$/, ''), ...deal, addedAt: addedAt[`deals/${file}`] || now }))
 
 // updatedAt only moves when a deal or category changes, so README-only pushes don't produce a rebuild commit.
 mkdirSync(join(root, 'dist'), { recursive: true })
