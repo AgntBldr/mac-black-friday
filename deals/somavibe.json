@@ -1,0 +1,12 @@
+{
+  "name": "SomaVibe",
+  "url": "https://apps.apple.com/redeem?ctx=offercodes&id=6781214388&code=BW2026",
+  "platforms": ["iOS", "iPadOS"],
+  "category": "launch",
+  "discount": "Launch price $19.99",
+  "description": "Try Quick Calm, a free three-minute session with calming sound and gentle phone vibration. Unlock longer sessions with SomaVibe+.",
+  "code": "BW2026",
+  "prices": [{"plan": "SomaVibe+ Lifetime", "after": 19.99}],
+  "ends": "2026-12-01",
+  "terms": "One-time purchase. $19.99 in the US App Store with code BW2026. Local prices vary. Ends December 1."
+}
