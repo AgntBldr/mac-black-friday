@@ -96,6 +96,7 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 
 | App | Platforms | What it does | Deal |
 | --- | --- | --- | --- |
+| [Astro](https://tryastro.app) | macOS | App Store Optimization for Apple developers: keyword popularity and difficulty, rankings, competitors' keywords and an MCP server. | **30% off your first year** · code **BLACKFRIDAY2026** · Astro One (yearly) ~~$108~~ $75.60 · First year at $75.60, then $108/year. Code applied automatically at checkout. 14-day money-back guarantee · until Dec 6 |
 | [Blob0](https://blob0.com/) | macOS | Browse, transfer, preview and share files in Cloudflare R2, Amazon S3 and other S3-compatible storage from your Mac. | **20% off one-time licenses** · code **BLACKFRIDAY20** · Personal (one-time) ~~$16.90~~ $13.52 · Enter the code at checkout for a Personal or Team license. Ends November 30 at 23:59 UTC+8 (15:59 UTC) · until Nov 30 |
 | [Chalk](https://getchalk.dev/#pricing) | macOS | Whiteboard beside your terminal for Claude Code. Cross out, circle or reorder a step and Claude fixes its plan before it writes code. | **50% off** · One-time ~~$24~~ $12 · No code needed, applied automatically at checkout. 7-day free trial with no card or account. Paid in the app. macOS 13+ · until Dec 1 |
 | [ConnectWizard](https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580) | macOS | Unlock hidden App Store Connect Analytics. | **50% off** · License ~~$100~~ $50 · Automatically applied; no code needed; 2026-11-27 to 2026-12-1 · until Dec 1 |

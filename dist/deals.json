@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T09:39:24.514Z",
+  "updatedAt": "2026-11-23T10:00:29.802Z",
   "categories": [
     {
       "id": "ai",
@@ -189,6 +189,31 @@
       "starts": "2026-11-14",
       "ends": "2026-12-01",
       "terms": "New subscribers. Redeem in the App Store from the deal page. Renews at the regular yearly price after the first year."
+    },
+    {
+      "id": "astro",
+      "name": "Astro",
+      "url": "https://tryastro.app",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "developer",
+      "description": "App Store Optimization for Apple developers: keyword popularity and difficulty, rankings, competitors' keywords and an MCP server.",
+      "discount": "30% off your first year",
+      "code": "BLACKFRIDAY2026",
+      "prices": [
+        {
+          "plan": "Astro One (yearly)",
+          "before": 108,
+          "after": 75.6
+        }
+      ],
+      "terms": "First year at $75.60, then $108/year. Code applied automatically at checkout. 14-day money-back guarantee.",
+      "starts": "2026-11-23",
+      "ends": "2026-12-06",
+      "maker": "Matteo Spada",
+      "makerUrl": "https://x.com/matteo_spada",
+      "icon": "https://tryastro.app/icon.webp"
     },
     {
       "id": "audiorecorder-app",
