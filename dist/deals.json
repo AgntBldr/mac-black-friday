@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T15:02:02.172Z",
+  "updatedAt": "2026-11-23T15:17:05.708Z",
   "categories": [
     {
       "id": "ai",
@@ -3525,6 +3525,33 @@
       "starts": "2026-11-24",
       "terms": "Automatically applied to the one-time in-app purchase. No code needed. November 24–30, 2026.",
       "addedAt": "2026-11-09T13:23:44.000Z"
+    },
+    {
+      "id": "screenkite",
+      "name": "ScreenKite",
+      "url": "https://screenkite.com/pricing",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "audio-video",
+      "discount": "30% off Pro, 40% off Founders",
+      "description": "Native Mac screen recorder with a full editor built in, no need for a separate editor. Edit with your own AI agent. Pay once, keep it forever.",
+      "code": "BFCM",
+      "prices": [
+        {
+          "plan": "Pro",
+          "before": 49.99,
+          "after": 34.99
+        },
+        {
+          "plan": "Founders Edition",
+          "before": 139.99,
+          "after": 83.99
+        }
+      ],
+      "ends": "2026-12-01",
+      "makerUrl": "https://x.com/realMikeChong",
+      "addedAt": "2026-11-23T15:16:56.000Z"
     },
     {
       "id": "screenpost",
