@@ -1,0 +1,25 @@
+{
+  "name": "Linger",
+  "url": "https://withlinger.com/black-friday/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "design",
+  "discount": "Up to 38% off",
+  "description": "Local-first image organizer for design references, with source links, notes, text search, and color filters on Apple Silicon Macs.",
+  "prices": [
+    {
+      "plan": "Personal",
+      "before": 39,
+      "after": 25
+    },
+    {
+      "plan": "Lifetime",
+      "before": 79,
+      "after": 49
+    }
+  ],
+  "starts": "2026-11-19",
+  "ends": "2026-12-01",
+  "terms": "Prices in USD. Offer applies automatically, no code needed. Ends December 1 at 11:59 p.m. Pacific time. Requires macOS 14+ on Apple Silicon."
+}
