@@ -1,0 +1,29 @@
+{
+  "name": "RenameNinja",
+  "url": "https://loshadki.app/renameninja/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "productivity",
+  "description": "Rename hundreds of files on your Mac in one go, with fields from names and photo, video, audio and PDF metadata, your own JavaScript, and Undo.",
+  "discount": "60% off",
+  "code": "BLACKFRIDAY26",
+  "prices": [
+    {
+      "plan": "Mac App Store",
+      "before": 9.99,
+      "after": 3.99
+    },
+    {
+      "plan": "loshadki.app",
+      "before": 9.99,
+      "after": 4.00
+    }
+  ],
+  "terms": "The code is for loshadki.app; on the Mac App Store the price is already lower, no code needed. One-time purchase.",
+  "starts": "2026-11-14",
+  "ends": "2026-12-01",
+  "maker": "Loshadki",
+  "makerUrl": "https://loshadki.app",
+  "icon": "https://loshadki.app/images/renameninja.png"
+}

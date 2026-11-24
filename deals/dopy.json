@@ -1,0 +1,22 @@
+{
+  "name": "Dopy",
+  "url": "https://apps.apple.com/us/app/dopy-dopamine-detox-app/id6756252987",
+  "platforms": [
+    "iOS"
+  ],
+  "category": "productivity",
+  "discount": "60% off first annual year",
+  "description": "Pomodoro focus sessions, habit tracking and weekly reflection.",
+  "code": "BF2026DOPY",
+  "prices": [
+    {
+      "plan": "Annual (first year)",
+      "before": 29.99,
+      "after": 11.99
+    }
+  ],
+  "starts": "2026-11-17",
+  "ends": "2026-11-30",
+  "terms": "US App Store; new/expired subscribers; first 1,000. No trial. Renews $29.99/year. Ends Nov 30, 21:00 UTC.",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/79/c9/4379c922-bd25-b5b2-2326-e43505d1b172/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg"
+}

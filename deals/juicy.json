@@ -1,0 +1,20 @@
+{
+  "name": "Juicy",
+  "url": "https://getjuicy.app/?ref=boltai",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "utilities",
+  "discount": "40% off Lifetime",
+  "description": "Battery app for Mac. Beautiful custom alerts at any %, battery health, and all your device batteries, right in your menu bar.",
+  "code": "BFCM26",
+  "prices": [
+    {
+      "plan": "Lifetime",
+      "before": 24.99,
+      "after": 14.99
+    }
+  ],
+  "starts": "2026-11-23",
+  "ends": "2026-12-01"
+}

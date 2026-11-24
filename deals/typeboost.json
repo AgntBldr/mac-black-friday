@@ -1,0 +1,15 @@
+{
+  "name": "TypeBoost",
+  "url": "https://typeboost.ai/?ref=mac-black-friday",
+  "platforms": ["macOS", "iOS"],
+  "category": "writing",
+  "description": "AI writing in every app on your Mac, plus an iPhone keyboard. Fix, rewrite or dictate text anywhere.",
+  "discount": "50% off",
+  "code": "TYPEBOOST50",
+  "prices": [{ "plan": "Pro annual, first year", "before": 60, "after": 30 }],
+  "terms": "Web checkout only, not in the App Store. Free plan available. Code active from Nov 23.",
+  "starts": "2026-11-23",
+  "ends": "2026-11-30",
+  "maker": "palmstudio GmbH",
+  "makerUrl": "https://typeboost.ai/"
+}

@@ -1,0 +1,26 @@
+name: Decline deal
+# Run by the maintainer (Actions tab or `gh workflow run decline.yml -f pr=<n> -f message=<text>`): the bot posts the
+# message on the pull request and closes it, so declines don't come from a personal account.
+on:
+  workflow_dispatch:
+    inputs:
+      pr:
+        description: Pull request number
+        required: true
+      message:
+        description: Comment to post before closing
+        required: true
+permissions:
+  pull-requests: write
+  issues: write
+jobs:
+  decline:
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ inputs.pr }}
+          MESSAGE: ${{ inputs.message }}
+        run: |
+          gh pr comment "$PR" -R "$GITHUB_REPOSITORY" --body "$MESSAGE"
+          gh pr close "$PR" -R "$GITHUB_REPOSITORY"

@@ -1,0 +1,13 @@
+{
+  "name": "Levo",
+  "url": "https://omggg.wtf/levo",
+  "platforms": ["macOS"],
+  "category": "launch",
+  "discount": "Launch price $7.49",
+  "description": "A menu bar app that watches your disk, memory, CPU and GPU, and lets your own AI agent find what's safe to delete. You confirm, Levo cleans it up.",
+  "code": "OMGGG",
+  "prices": [{ "plan": "Lifetime", "before": 14.99, "after": 7.49 }],
+  "ends": "2026-12-01",
+  "terms": "50% off at checkout with code OMGGG.",
+  "icon": "https://omggg.wtf/levo/img/icon-256.png"
+}

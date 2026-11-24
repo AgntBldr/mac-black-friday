@@ -1,0 +1,23 @@
+{
+  "name": "Pixel Pet Alarm",
+  "url": "https://apps.apple.com/redeem?ctx=offercodes&id=6829358606&code=PIXELPETBF40",
+  "platforms": [
+    "iOS"
+  ],
+  "category": "utilities",
+  "discount": "40% off Lifetime (US)",
+  "description": "An iPhone alarm clock with animal and nature sounds, custom recordings, and a free daily egg that hatches a pixel companion. Requires iOS 26.",
+  "code": "PIXELPETBF40",
+  "prices": [
+    {
+      "plan": "Lifetime Membership",
+      "before": 5.9,
+      "after": 3.49
+    }
+  ],
+  "starts": "2026-11-18",
+  "ends": "2026-11-30",
+  "terms": "One-time in-app purchase. Redeem through Apple. US price shown; local prices vary. Ends Nov 30 at 12:00 a.m. PT.",
+  "makerUrl": "https://x.com/zhaozed1",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/7d/32/ba7d32af-28cd-eda6-3a51-4ffb70b16582/AppIcon-1x_U007ephone-0-3-P3-85-220-0.png/512x512bb.jpg"
+}

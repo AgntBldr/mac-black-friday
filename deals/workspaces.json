@@ -1,0 +1,15 @@
+{
+  "name": "Workspaces",
+  "url": "https://www.apptorium.com/workspaces",
+  "platforms": ["macOS"],
+  "category": "productivity",
+  "description": "Project-based Mac launcher that opens grouped files, folders, apps, websites, emails and Shortcuts with one click.",
+  "discount": "50% off",
+  "prices": [{ "plan": "One-time", "before": 19.99, "after": 9.99 }],
+  "terms": "One-time purchase per major version. No code needed.",
+  "starts": "2026-11-20",
+  "ends": "2026-12-06",
+  "maker": "Apptorium",
+  "makerUrl": "https://www.apptorium.com",
+  "icon": "https://www.apptorium.com/shared/workspaces.png"
+}

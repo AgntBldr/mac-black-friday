@@ -1,0 +1,15 @@
+{
+  "name": "Leave Me Alone",
+  "url": "https://leavemealone.com/pricing",
+  "platforms": ["Web"],
+  "category": "productivity",
+  "discount": "Up to 83% off yearly",
+  "description": "Unsubscribe from mailing lists, screen new senders, block spam and roll newsletters into one digest. Works with Gmail, Outlook, iCloud and IMAP.",
+  "terms": "Discount applies to yearly plans and lasts for as long as you stay subscribed.",
+  "prices": [
+    { "plan": "1 inbox, yearly", "before": 150, "after": 48 },
+    { "plan": "3 inboxes, yearly", "before": 240, "after": 72 },
+    { "plan": "Unlimited inboxes, yearly", "before": 360, "after": 59 }
+  ],
+  "ends": "2026-12-07"
+}

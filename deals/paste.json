@@ -1,0 +1,25 @@
+{
+  "name": "Paste",
+  "url": "https://pasteapp.io/black-friday-2026",
+  "platforms": [
+    "macOS",
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "productivity",
+  "discount": "50% off first year of Annual",
+  "description": "Paste is a productivity app for Mac, iPhone, and iPad that remembers everything you copy.",
+  "code": "BLACKFRIDAY2026",
+  "prices": [
+    {
+      "plan": "Annual (first year)",
+      "before": 29.99,
+      "after": 14.99
+    }
+  ],
+  "terms": "Code on pasteapp.io, applied at checkout. First year of Annual.",
+  "starts": "2026-11-20",
+  "ends": "2026-12-01",
+  "makerUrl": "https://pasteapp.io",
+  "icon": "https://pasteapp.io/icons/icon-512.png"
+}

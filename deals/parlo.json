@@ -1,0 +1,15 @@
+{
+  "name": "Parlo",
+  "url": "https://parlohub.com/black-friday",
+  "platforms": ["macOS"],
+  "category": "productivity",
+  "description": "Dictation in any app, meeting notes without a bot, and voice commands for Mac. Speech recognition runs on your Mac.",
+  "discount": "26% off lifetime",
+  "prices": [
+    { "plan": "Lifetime", "before": 80, "after": 59 },
+    { "plan": "Monthly, first 3 months", "before": 8, "after": 4 }
+  ],
+  "terms": "Lifetime is a one-time payment. Monthly starts with a 14-day free trial. The lifetime plan retires when the sale ends.",
+  "starts": "2026-11-20",
+  "ends": "2026-12-01"
+}

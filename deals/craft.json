@@ -1,0 +1,23 @@
+{
+  "name": "Craft",
+  "url": "https://www.craft.do/pricing",
+  "platforms": [
+    "macOS",
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "productivity",
+  "description": "Notes, docs and tasks in one native app. Nest pages inside pages, plan your day in daily notes and add tasks that sync with Apple Reminders.",
+  "discount": "40% off yearly Plus & Family",
+  "code": "BLACKFRIDAY26-A",
+  "prices": [
+    {
+      "plan": "Plus, yearly (per month)",
+      "before": 8,
+      "after": 4.8
+    }
+  ],
+  "starts": "2026-11-16",
+  "ends": "2026-12-09",
+  "terms": "BLACKFRIDAY26-A for yearly Plus and Family, BLACKFRIDAY26-M for 20% off monthly. The discount stays on every renewal. US price; local prices vary."
+}

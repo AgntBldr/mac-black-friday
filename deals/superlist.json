@@ -1,0 +1,29 @@
+{
+  "name": "Superlist",
+  "url": "https://www.superlist.com/blackfriday2026",
+  "platforms": [
+    "macOS",
+    "iOS"
+  ],
+  "category": "productivity",
+  "description": "Tasks, notes and AI meeting notes in one app for work and home. Share lists and work on them together in real time.",
+  "discount": "50% off the first year",
+  "code": "SUPERFRIDAY2026",
+  "prices": [
+    {
+      "plan": "Basic (yearly)",
+      "before": 59,
+      "after": 29.5
+    },
+    {
+      "plan": "Super (yearly)",
+      "before": 199,
+      "after": 99.5
+    }
+  ],
+  "starts": "2026-11-23",
+  "ends": "2026-11-29",
+  "terms": "Yearly plans only. Redeem on the web or in the Mac app, not through the App Store. Free plan available.",
+  "maker": "Superlist",
+  "makerUrl": "https://www.superlist.com"
+}

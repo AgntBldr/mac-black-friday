@@ -3,7 +3,7 @@ import { join } from 'node:path'
 
 export const root = new URL('..', import.meta.url).pathname
 export const YEAR = 2026
-export const PLATFORMS = ['macOS', 'iOS', 'iPadOS', 'visionOS', 'watchOS']
+export const PLATFORMS = ['macOS', 'iOS', 'iPadOS', 'visionOS', 'watchOS', 'Web'] // Web: only for hand-picked Friends of BoltAI apps
 // Black Friday deals only: nothing that starts before November or runs past mid-December.
 export const LATEST_END = `${YEAR}-12-15`
 const SHORTENERS = ['bit.ly', 'tinyurl.com', 't.co', 'goo.gl', 'ow.ly', 'buff.ly', 'rebrand.ly', 'cutt.ly', 'shorturl.at', 'is.gd']
@@ -59,6 +59,9 @@ export function validateDeal(file, deal, categoryIds) {
   if (typeof deal.description === 'string' && deal.description.length > 160) errors.push('"description" is longer than 160 characters')
   if (typeof deal.discount === 'string' && deal.discount.length > 30) errors.push('"discount" is longer than 30 characters')
   if (typeof deal.terms === 'string' && deal.terms.length > 160) errors.push('"terms" is longer than 160 characters')
+  // Launch Deals: the regular price is too new for a markdown, so no percentage in the headline.
+  if (deal.category === 'launch' && typeof deal.discount === 'string' && deal.discount.includes('%'))
+    errors.push('Launch Deals: "discount" shows the launch price (like "Launch price $9.99"), not a percentage')
   if (deal.featured !== undefined && typeof deal.featured !== 'boolean') errors.push('"featured" must be true or false')
 
   if (deal.prices !== undefined) {

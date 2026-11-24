@@ -1,0 +1,23 @@
+{
+  "name": "Sponge",
+  "url": "https://sponge.computer/pricing",
+  "platforms": [
+    "macOS",
+    "iOS"
+  ],
+  "category": "reading",
+  "description": "Local-first read-later library: save articles and PDFs, highlight them and export Markdown. Plus syncs your library to the web and iPhone.",
+  "discount": "50% off the first year",
+  "code": "SPONGEBF26",
+  "prices": [
+    {
+      "plan": "Sponge Plus, monthly",
+      "before": 5,
+      "after": 2.5
+    }
+  ],
+  "terms": "Buy Sponge Plus on the web with the code at checkout. New subscribers; $2.50 a month for your first 12 months.",
+  "starts": "2026-11-18",
+  "ends": "2026-12-02",
+  "maker": "Hraness"
+}

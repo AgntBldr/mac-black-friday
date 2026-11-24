@@ -1,0 +1,19 @@
+{
+  "name": "Orchard",
+  "url": "https://orchard.5km.tech/black-friday?utm_source=boltai&utm_medium=deal-site&utm_campaign=bf2026",
+  "platforms": ["macOS"],
+  "category": "ai",
+  "description": "Gives AI assistants 52 local tools across 11 Apple apps (Mail, Calendar, Notes, Messages and more) via MCP, Agent Skills or a CLI. No open ports.",
+  "discount": "33% off",
+  "code": "BF2026",
+  "prices": [
+    { "plan": "Lifetime", "before": 39.99, "after": 26.79 },
+    { "plan": "Pro Annual (first year)", "before": 24.99, "after": 16.74 }
+  ],
+  "terms": "Monthly plan not included. Annual discount applies to the first year. Free plan stays free.",
+  "starts": "2026-11-20",
+  "ends": "2026-12-06",
+  "maker": "5KM Tech",
+  "makerUrl": "https://x.com/okooo5km",
+  "icon": "https://5km.tech/products/orchard/icon.png"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "DuoBar",
+  "url": "https://www.teekamsuthar.com/duobar?utm_source=boltai&utm_medium=referral&utm_campaign=black-friday-2026",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "utilities",
+  "description": "Merges your Mac's native menu bar icons into one glanceable icon; hover to see them separately again. Works on macOS 27 Golden Gate.",
+  "discount": "29% off Pro",
+  "prices": [
+    {
+      "plan": "Pro (one-time)",
+      "before": 6.99,
+      "after": 4.99
+    }
+  ],
+  "terms": "One-time in-app purchase on the Mac App Store, applied automatically, no code needed.",
+  "starts": "2026-11-24",
+  "ends": "2026-12-01",
+  "icon": "https://www.teekamsuthar.com/duobar/icon-512.png"
+}

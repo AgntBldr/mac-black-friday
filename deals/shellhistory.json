@@ -1,0 +1,31 @@
+{
+  "name": "ShellHistory",
+  "url": "https://loshadki.app/shellhistory/",
+  "platforms": [
+    "macOS",
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "developer",
+  "description": "Keep, search and sync your zsh, bash and fish history on Mac, iPhone and iPad, with statistics, notebooks and Explain Command.",
+  "discount": "60% off",
+  "code": "BLACKFRIDAY26",
+  "prices": [
+    {
+      "plan": "Mac App Store",
+      "before": 13.99,
+      "after": 5.59
+    },
+    {
+      "plan": "loshadki.app",
+      "before": 13.99,
+      "after": 5.60
+    }
+  ],
+  "terms": "The code is for loshadki.app; on the Mac App Store the price is already lower, no code needed. One-time purchase.",
+  "starts": "2026-11-14",
+  "ends": "2026-12-01",
+  "maker": "Loshadki",
+  "makerUrl": "https://loshadki.app",
+  "icon": "https://loshadki.app/images/shellhistory.png"
+}

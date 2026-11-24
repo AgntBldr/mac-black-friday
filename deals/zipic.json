@@ -1,0 +1,20 @@
+{
+  "name": "Zipic",
+  "url": "https://zipic.app/black-friday?utm_source=boltai&utm_medium=deal-site&utm_campaign=bf2026",
+  "platforms": ["macOS"],
+  "category": "design",
+  "description": "Compress, convert and resize whole folders of images locally, incl. AVIF, WebP and JPEG XL, with a JSON-output CLI for scripts and AI agents.",
+  "discount": "33% off",
+  "code": "BF2026",
+  "prices": [
+    { "plan": "Solo (1 device)", "before": 19.99, "after": 13.39 },
+    { "plan": "Personal (2 devices)", "before": 29.99, "after": 20.09 },
+    { "plan": "Team (10 devices)", "before": 129.99, "after": 87.09 }
+  ],
+  "terms": "One-time purchase, lifetime updates. The same license also works on Windows. 30-day refund.",
+  "starts": "2026-11-20",
+  "ends": "2026-12-06",
+  "maker": "5KM Tech",
+  "makerUrl": "https://x.com/okooo5km",
+  "icon": "https://5km.tech/products/zipic/icon.png"
+}

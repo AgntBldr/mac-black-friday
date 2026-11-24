@@ -13,9 +13,9 @@
 | `name` | yes | App name |
 | `url` | yes | The page where the Black Friday price is shown. No shortened links. |
 | `platforms` | yes | Any of `macOS`, `iOS`, `iPadOS`, `visionOS`, `watchOS` |
-| `category` | yes | An `id` from [categories.json](categories.json); `other` if unsure |
+| `category` | yes | An `id` from [categories.json](categories.json); `other` if unsure. `launch` if the regular price is less than 20 days old |
 | `description` | no | What the app does, up to 160 characters |
-| `discount` | yes | The headline, up to 30 characters: `40% off`, `Lifetime $49` |
+| `discount` | yes | The headline, up to 30 characters: `40% off`, `Lifetime $49`. For `launch`: `Launch price $9.99` |
 | `code` | no | Discount code, if one is needed |
 | `prices` | no | `[{ "plan": "Pro", "before": 49, "after": 29 }]` in USD |
 | `terms` | no | Anything a buyer needs to know, up to 160 characters |

@@ -1,26 +1,57 @@
 name: Review deal
-# pull_request_target can comment on pull requests from forks. It checks out the base branch only and never runs
+# pull_request_target can comment on pull requests from forks. It checks out the latest base branch only (so re-runs use the current bot) and never runs
 # code from the pull request; scripts/review.mjs reads the deal file through the API as data.
+# Two jobs: "check" opens each deal page in a headless browser (so pages drawn by JavaScript are read too) with a
+# read-only token; "post" has write access, runs no browser, and only posts the comment and label from check's result.
 on:
   pull_request_target:
     types: [opened, synchronize, reopened, edited]
-permissions:
-  contents: read
-  pull-requests: write
-  issues: write
+permissions: {}
 jobs:
-  review:
+  check:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: read
+    outputs:
+      result: ${{ steps.review.outputs.result }}
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.pull_request.base.sha }}
+          ref: ${{ github.event.pull_request.base.ref }}
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install headless browser
+        run: npm install --no-save playwright@1.49.1 && npx playwright install --with-deps chromium
+        continue-on-error: true
+      - id: review
+        run: node scripts/review.mjs
+        env:
+          REVIEW_STEP: check
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          PR_AUTHOR: ${{ github.event.pull_request.user.login }}
+  post:
+    needs: check
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.ref }}
+          persist-credentials: false
       - uses: actions/setup-node@v4
         with:
           node-version: 22
       - run: node scripts/review.mjs
         env:
+          REVIEW_STEP: post
+          REVIEW_RESULT: ${{ needs.check.outputs.result }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
-          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
-          PR_AUTHOR: ${{ github.event.pull_request.user.login }}

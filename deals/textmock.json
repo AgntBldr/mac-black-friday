@@ -1,0 +1,22 @@
+{
+  "name": "Textmock",
+  "url": "https://textmock.com/pricing",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "design",
+  "description": "Make iMessage-style conversation mockups on the web or Mac and save them as images or videos.",
+  "discount": "50% off the first year",
+  "code": "TEXTMOCKBF26",
+  "prices": [
+    {
+      "plan": "Pro, monthly",
+      "before": 5,
+      "after": 2.5
+    }
+  ],
+  "terms": "New subscribers; $2.50 a month for your first 12 months. Pro removes the badge and end card from exports.",
+  "starts": "2026-11-18",
+  "ends": "2026-12-02",
+  "maker": "Hraness"
+}

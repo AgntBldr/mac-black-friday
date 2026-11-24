@@ -1,0 +1,26 @@
+{
+  "name": "Notchet",
+  "url": "https://aqibjaved.dev/apps/notchet/?ref=bf-gh-longseespace",
+  "platforms": [
+    "macOS",
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "productivity",
+  "description": "Clipboard manager in the MacBook notch: press Option Command V, pick what you copied, and it pastes where you were.",
+  "discount": "50% off",
+  "code": "NOTCHET50",
+  "prices": [
+    {
+      "plan": "Lifetime",
+      "before": 9.99,
+      "after": 4.99
+    }
+  ],
+  "terms": "One-time purchase. Mac website (2 Macs) or App Store (iPhone, iPad and Mac).",
+  "starts": "2026-11-17",
+  "ends": "2026-12-02",
+  "maker": "Aqib Javed",
+  "makerUrl": "https://aqibjaved.dev",
+  "icon": "https://aqibjaved.dev/assets/nt-icon-glow.webp"
+}

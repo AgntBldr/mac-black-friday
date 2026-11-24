@@ -24,14 +24,14 @@ This repo lists Black Friday deals on Mac, iPhone and iPad apps. Each deal is on
 
 Required: `name`, `url`, `platforms`, `category`, `discount`, `ends`. Everything else is optional.
 
-- `url`: the app's own page (pricing or Black Friday page). https, no shortened links.
+- `url`: the app's own page (pricing or Black Friday page), or an App Store offer-code link (`https://apps.apple.com/redeem?ctx=offercodes&id=…&code=…`) with the same code as `code`. https, no shortened links.
 - `platforms`: any of `macOS`, `iOS`, `iPadOS`, `visionOS`, `watchOS`.
-- `category`: an `id` from [categories.json](categories.json); use `other` if unsure.
-- `discount`: the headline, up to 30 characters, like `40% off` or `Lifetime $29`.
+- `category`: an `id` from [categories.json](categories.json); use `other` if unsure. Use `launch` (Launch Deals) when the regular price is less than 20 days old when the deal starts.
+- `discount`: the headline, up to 30 characters, like `40% off` or `Lifetime $29`. For `launch`, no percentage: `Launch price $9.99`.
 - `description`: up to 160 characters.
 - `prices`: USD numbers; `before` must be higher than `after`. Leave out `before` if the page doesn't show it.
 - `ends`: `YYYY-MM-DD`, between 2026-11-20 and 2026-12-15. Use `2026-12-01` if the page gives no end date.
 - Optional too: `starts` (November or later), `terms` (up to 160 characters), `makerUrl`, `icon` (https link to a square icon).
 - Never set `featured`.
 
-Only finished Mac and iOS apps with a real Black Friday deal are merged. If the deal starts later, set `starts`. See [RULES.md](RULES.md).
+Only finished Mac and iOS apps with a real Black Friday deal are merged. The `before` price must have been the real price for at least 20 days before the deal starts; otherwise use `launch`. If the deal starts later, set `starts`. See [RULES.md](RULES.md).

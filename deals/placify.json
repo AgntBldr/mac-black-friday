@@ -1,0 +1,19 @@
+{
+  "name": "Placify",
+  "url": "https://apps.apple.com/us/app/placify-map-trip-planner/id6739698007",
+  "platforms": [
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "productivity",
+  "discount": "40% off",
+  "description": "A personal map and trip planner for iPhone and iPad: save places from any link, tag them your way, and turn them into day-by-day trips.",
+  "prices": [
+    {
+      "plan": "Lifetime",
+      "before": 49.99,
+      "after": 29.99
+    }
+  ],
+  "ends": "2026-12-01"
+}

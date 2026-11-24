@@ -1,0 +1,19 @@
+{
+  "name": "Enconvo",
+  "url": "https://enconvo.com/?utm_source=github-longseespace&utm_medium=deal-list&utm_campaign=black-friday-2026",
+  "platforms": ["macOS"],
+  "category": "ai",
+  "description": "Native AI assistant and agent for Mac: automates tasks across your apps, dictates, searches your documents, and runs cloud AI or local models.",
+  "discount": "30% off",
+  "prices": [
+    { "plan": "Lifetime Standard", "before": 59, "after": 41.3 },
+    { "plan": "Lifetime Premium", "before": 119, "after": 83.3 },
+    { "plan": "Lifetime Teams", "before": 159, "after": 111.3 }
+  ],
+  "terms": "Also 30% off the first payment of an Enconvo Cloud plan. Applied automatically at checkout, no code needed.",
+  "starts": "2026-11-20",
+  "ends": "2026-12-07",
+  "maker": "Enconvo",
+  "makerUrl": "https://enconvo.com/?utm_source=github-longseespace&utm_medium=deal-list&utm_campaign=black-friday-2026",
+  "icon": "https://file.enconvo.com/circle_logo.png"
+}

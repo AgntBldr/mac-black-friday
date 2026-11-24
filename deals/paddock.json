@@ -1,0 +1,24 @@
+{
+  "name": "Paddock",
+  "url": "https://loshadki.app/paddock/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "utilities",
+  "description": "Everything about your Mac in the menu bar. Paddock is free; Pro adds a year of history, app alerts and your other Macs.",
+  "discount": "60% off",
+  "code": "BLACKFRIDAY26",
+  "prices": [
+    {
+      "plan": "Pro",
+      "before": 9.99,
+      "after": 4.00
+    }
+  ],
+  "terms": "The code takes 60% off Paddock Pro on loshadki.app: a one-time purchase for up to 5 Macs.",
+  "starts": "2026-11-14",
+  "ends": "2026-12-01",
+  "maker": "Loshadki",
+  "makerUrl": "https://loshadki.app",
+  "icon": "https://loshadki.app/images/paddock.png"
+}

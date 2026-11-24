@@ -1,0 +1,15 @@
+{
+  "name": "Whisper Memos",
+  "url": "https://whispermemos.com/changelog/2026-11-black-friday",
+  "platforms": ["iOS", "watchOS"],
+  "category": "productivity",
+  "description": "Record voice memos on iPhone and Apple Watch, get accurate transcripts and summaries, and send them to your email or other apps. Works in 58 languages.",
+  "discount": "30% off yearly",
+  "prices": [{ "plan": "Pro yearly", "before": 69.99, "after": 49.99 }],
+  "terms": "No code needed, the lower price applies automatically in the app. Price stays as long as you stay subscribed. 7-day free trial for new users.",
+  "starts": "2026-11-16",
+  "ends": "2026-12-06",
+  "maker": "Vojtech Rinik",
+  "makerUrl": "https://whispermemos.com",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/5a/f2/575af2d6-d93a-46cb-4df8-bec5907af307/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg"
+}

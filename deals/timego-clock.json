@@ -1,0 +1,17 @@
+{
+  "name": "TimeGo Clock",
+  "url": "https://apps.apple.com/app/apple-store/id6448658165?pt=126247175&ct=bf2026-boltai&mt=12",
+  "platforms": ["macOS"],
+  "category": "productivity",
+  "description": "Lightweight, minimalist timer and reminder app with a countdown HUD and timer groups you combine yourself.",
+  "discount": "50% off",
+  "prices": [
+    { "plan": "App", "before": 3.99, "after": 1.99 }
+  ],
+  "terms": "Paid app, price already reduced on the Mac App Store, no code needed. US price; local prices vary.",
+  "starts": "2026-11-20",
+  "ends": "2026-12-06",
+  "maker": "5KM Tech",
+  "makerUrl": "https://x.com/okooo5km",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/d7/3b/afd73bfe-e8c1-03a7-a501-84950e86edaa/TimeGo-0-0-85-220-0-0-6-0-2x.png/512x512bb.png"
+}

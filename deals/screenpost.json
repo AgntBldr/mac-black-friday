@@ -1,0 +1,16 @@
+{
+  "name": "ScreenPost",
+  "url": "https://screenpost.app/buy?promo=LAUNCH19&ref=boltai",
+  "platforms": ["macOS"],
+  "category": "utilities",
+  "description": "Native Mac app: capture screenshots, recordings and GIFs, auto-redact secrets, and post to X in seconds.",
+  "discount": "$19 instead of $29",
+  "code": "LAUNCH19",
+  "prices": [{ "plan": "One-time", "before": 29, "after": 19 }],
+  "terms": "Code LAUNCH19 is pre-applied at checkout. Every feature, 1 year of updates, up to 3 Macs. Ends 1 Dec 2026, 23:59 PT.",
+  "starts": "2026-11-24",
+  "ends": "2026-12-01",
+  "maker": "Luca Mazzi",
+  "makerUrl": "https://x.com/luca_mazzi",
+  "icon": "https://screenpost.app/favicon.png"
+}

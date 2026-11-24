@@ -1,0 +1,18 @@
+{
+  "name": "TotalFigures",
+  "url": "https://totalfigures.app/?ref=bf26-boltai",
+  "platforms": ["iOS"],
+  "category": "finance",
+  "discount": "88% off Premium",
+  "description": "Know where your money goes and whether you're getting ahead, with your net worth and every transaction tracked in one private app.",
+  "prices": [
+    {"plan": "Lifetime", "before": 79.99, "after": 9.59},
+    {"plan": "Yearly, first year", "before": 29.99, "after": 3.59}
+  ],
+  "starts": "2026-11-21",
+  "ends": "2026-12-03",
+  "terms": "Applied automatically on the App Store, no code. Yearly: new subscribers, then $29.99/year, until Dec 2. Free to download. US prices.",
+  "maker": "Alex Titarenko",
+  "makerUrl": "https://totalfigures.app",
+  "icon": "https://totalfigures.app/icon-512.png"
+}

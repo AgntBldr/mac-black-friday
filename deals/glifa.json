@@ -1,0 +1,15 @@
+{
+  "name": "Glifa",
+  "url": "https://glifa.app/?ref=bf-boltai#pricing",
+  "platforms": ["macOS"],
+  "category": "launch",
+  "description": "A Markdown editor for Mac you can ask for anything. AI changes come as proposals you keep or undo, using the AI you already have.",
+  "discount": "Launch price $9.99",
+  "prices": [{ "plan": "One-time, up to 3 Macs", "before": 14.99, "after": 9.99 }],
+  "starts": "2026-11-20",
+  "ends": "2026-11-30",
+  "terms": "No code needed. On sale since Nov 14 at $14.99. Buy during the offer, even if your trial runs longer. $19.99 from Dec 1.",
+  "maker": "BCLogic Lukasz Majda",
+  "makerUrl": "https://glifa.app",
+  "icon": "https://glifa.app/press/glifa-icon-1024.png"
+}

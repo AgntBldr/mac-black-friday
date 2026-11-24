@@ -1,0 +1,19 @@
+{
+  "name": "UScale",
+  "url": "https://apps.apple.com/redeem?ctx=offercodes&id=6736931330&code=BF26",
+  "platforms": ["macOS", "iOS", "iPadOS"],
+  "category": "audio-video",
+  "discount": "40% off the first year",
+  "description": "Enhance and upscale photos and videos with AI, sharpen blurry images, and restore old photos.",
+  "code": "BF26",
+  "prices": [
+    {
+      "plan": "Premium Annual (first year)",
+      "before": 44.99,
+      "after": 26.99
+    }
+  ],
+  "starts": "2026-11-20",
+  "ends": "2026-11-30",
+  "terms": "Redeem via the App Store link or enter BF26 in the UScale paywall. Prices shown are for the US App Store. Eligibility applies."
+}

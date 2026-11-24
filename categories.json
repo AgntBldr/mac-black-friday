@@ -12,5 +12,6 @@
   { "id": "finance", "name": "Finance" },
   { "id": "education", "name": "Education" },
   { "id": "games", "name": "Games" },
-  { "id": "other", "name": "Other" }
+  { "id": "other", "name": "Other" },
+  { "id": "launch", "name": "Launch Deals" }
 ]

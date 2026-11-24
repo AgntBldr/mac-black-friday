@@ -1,0 +1,15 @@
+{
+  "name": "data-peek",
+  "url": "https://www.datapeek.dev/pricing?utm_source=mac-black-friday",
+  "platforms": ["macOS"],
+  "category": "developer",
+  "description": "Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse. Also on Windows and Linux.",
+  "discount": "40% off",
+  "prices": [{ "plan": "Pro yearly", "before": 29, "after": 17.4 }],
+  "starts": "2026-11-26",
+  "ends": "2026-12-01",
+  "terms": "Applied automatically at checkout, no code. Free for personal use; Pro is the licence for work use.",
+  "maker": "Rohith Gilla",
+  "makerUrl": "https://www.datapeek.dev/",
+  "icon": "https://raw.githubusercontent.com/Rohithgilla12/data-peek/main/apps/desktop/build/icon.png"
+}

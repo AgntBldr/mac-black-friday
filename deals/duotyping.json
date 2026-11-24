@@ -1,0 +1,19 @@
+{
+  "name": "DuoTyping",
+  "url": "https://duotyping.com/pricing",
+  "platforms": ["macOS"],
+  "category": "writing",
+  "discount": "50% off first payment",
+  "description": "Fixes grammar, spelling and tone as you type in any Mac app, predicts your next words, and rewrites and translates",
+  "code": "BFCM2026",
+  "prices": [
+    { "plan": "Pro monthly, first month", "before": 9.9, "after": 4.95 },
+    { "plan": "Pro yearly, first year", "before": 89.9, "after": 44.95 }
+  ],
+  "starts": "2026-11-13",
+  "ends": "2026-12-13",
+  "terms": "First purchase of Pro only; renews at the regular price. Free plan stays free.",
+  "maker": "Huy B",
+  "makerUrl": "https://duotyping.com",
+  "icon": "https://duotyping.com/apple-touch-icon.png"
+}

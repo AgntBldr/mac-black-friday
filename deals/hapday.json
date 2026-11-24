@@ -1,0 +1,22 @@
+{
+  "name": "Hapday",
+  "url": "https://haaaaaaappy-black-friday-2026.sleek-ghost-5356.chatgpt.site/hapday",
+  "platforms": [
+    "iOS"
+  ],
+  "category": "health",
+  "discount": "60% off first annual year",
+  "description": "AI coaching, habit and mood tracking in one app.",
+  "code": "BF2026HAPDAY",
+  "prices": [
+    {
+      "plan": "Annual (first year)",
+      "before": 39.99,
+      "after": 16.0
+    }
+  ],
+  "starts": "2026-11-17",
+  "ends": "2026-11-30",
+  "terms": "Web purchase only; no active subscription; no trial. Use the same email in app. Renews $39.99/year. Ends Nov 30, 21:00 UTC.",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/88/b1/2888b147-8f82-612f-8eaf-6003d976f046/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg"
+}

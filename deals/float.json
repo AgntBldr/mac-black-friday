@@ -1,0 +1,16 @@
+{
+  "name": "Float",
+  "url": "https://float.gilla.fun/?utm_source=mac-black-friday#pricing",
+  "platforms": ["macOS"],
+  "category": "writing",
+  "description": "Floating Markdown scratchpad on a global hotkey. Stays over full-screen apps and saves notes as plain .md files.",
+  "discount": "40% off",
+  "code": "BF26FLOAT",
+  "prices": [{ "plan": "Pro lifetime", "before": 4.99, "after": 2.99 }],
+  "starts": "2026-11-26",
+  "ends": "2026-12-01",
+  "terms": "One-time payment, 14-day refund. Ends at the end of Dec 1, US Pacific time.",
+  "maker": "Rohith Gilla",
+  "makerUrl": "https://float.gilla.fun/",
+  "icon": "https://float.gilla.fun/icon.png"
+}

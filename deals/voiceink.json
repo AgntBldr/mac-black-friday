@@ -1,0 +1,24 @@
+{
+  "name": "VoiceInk",
+  "url": "https://tryvoiceink.com/black-friday",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "productivity",
+  "description": "Open-source macOS dictation with on-device speech recognition and app-specific modes.",
+  "discount": "40% off Mac lifetime licenses",
+  "code": "BFVI2640",
+  "prices": [
+    {
+      "plan": "Solo (1 Mac)",
+      "before": 25,
+      "after": 15
+    }
+  ],
+  "terms": "Use the code at Polar checkout. Ends December 5 at 11:59 PM Pacific. Prices exclude applicable tax.",
+  "starts": "2026-11-11",
+  "ends": "2026-12-05",
+  "maker": "Prakash Joshi Pax",
+  "makerUrl": "https://tryvoiceink.com/",
+  "icon": "https://tryvoiceink.com/icons/appIcon-1024.png"
+}

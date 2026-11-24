@@ -1,0 +1,24 @@
+{
+  "name": "Cadran",
+  "url": "https://cadranapp.com/en#pricing",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "utilities",
+  "description": "A live clock on your Mac wallpaper, behind your icons, on every Space and display. Also a screen saver. Free app with a one-time Pro upgrade.",
+  "discount": "50% off Pro",
+  "code": "BF50",
+  "prices": [
+    {
+      "plan": "Pro (one-time)",
+      "before": 9.99,
+      "after": 4.99
+    }
+  ],
+  "terms": "Free app. Code BF50 at checkout takes 50% off Cadran Pro, a one-time license for up to 3 Macs. US price, taxes may apply.",
+  "starts": "2026-11-20",
+  "ends": "2026-12-01",
+  "maker": "Ilyes Abd-Lillah",
+  "makerUrl": "https://cadranapp.com",
+  "icon": "https://cadranapp.com/images/logo.png"
+}

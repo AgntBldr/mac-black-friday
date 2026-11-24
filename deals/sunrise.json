@@ -1,0 +1,22 @@
+{
+  "name": "Sunrise",
+  "url": "https://apps.apple.com/us/app/sunrise-adhd-planner-coach/id1542353302",
+  "platforms": [
+    "iOS"
+  ],
+  "category": "productivity",
+  "discount": "60% off first annual year",
+  "description": "An ADHD-focused AI coach and habit tracker for building daily routines.",
+  "code": "BF2026SUNRISE",
+  "prices": [
+    {
+      "plan": "Annual (first year)",
+      "before": 9.99,
+      "after": 3.99
+    }
+  ],
+  "starts": "2026-11-17",
+  "ends": "2026-11-30",
+  "terms": "US App Store; new/expired subscribers; first 1,000. No trial. Renews $9.99/year. Ends Nov 30, 21:00 UTC.",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/36/4b/44364b04-23ca-3c4d-3323-554df79ae5b9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220-0.jpeg/512x512bb.jpg"
+}

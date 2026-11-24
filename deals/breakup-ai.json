@@ -1,0 +1,22 @@
+{
+  "name": "Breakup AI",
+  "url": "https://apps.apple.com/us/app/breakup-ai-no-contact-coach/id6749644067",
+  "platforms": [
+    "iOS"
+  ],
+  "category": "health",
+  "discount": "60% off first annual year",
+  "description": "Chat and voice support for navigating a breakup and maintaining no contact.",
+  "code": "BF2026BREAKUP",
+  "prices": [
+    {
+      "plan": "Annual (first year)",
+      "before": 39.99,
+      "after": 15.99
+    }
+  ],
+  "starts": "2026-11-17",
+  "ends": "2026-11-30",
+  "terms": "US App Store; new/expired subscribers; first 1,000. No trial. Renews $39.99/year. Ends Nov 30, 21:00 UTC.",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/1c/fc/531cfcad-4200-61a1-9228-08b05c380c26/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+}

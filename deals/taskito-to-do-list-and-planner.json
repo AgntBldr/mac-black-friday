@@ -1,0 +1,27 @@
+{
+  "name": "Taskito: To-Do List and Planner",
+  "url": "https://taskito.io/black-friday/",
+  "platforms": [
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "productivity",
+  "discount": "30% off",
+  "description": "Day planner to combine your routines, tasks, reminders and events in one timeline!",
+  "prices": [
+    {
+      "plan": "Premium, Lifetime",
+      "before": 49.99,
+      "after": 34.99
+    },
+    {
+      "plan": "Premium, Annual",
+      "before": 19.99,
+      "after": 15.99
+    }
+  ],
+  "starts": "2026-11-23",
+  "ends": "2026-12-01",
+  "makerUrl": "https://x.com/HeyTaskito",
+  "icon": "https://i.imgur.com/jGU2YbF.png"
+}

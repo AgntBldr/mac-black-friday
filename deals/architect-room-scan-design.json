@@ -1,0 +1,22 @@
+{
+  "name": "ARchitect: Room Scan & Design",
+  "url": "https://mesutdokumaci1.github.io/ARchitectPocket/blackfriday.html",
+  "platforms": [
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "utilities",
+  "discount": "50% off first year",
+  "description": "Scan a room into a dimensioned floor plan, then repaint walls, swap floors and place furniture live in AR. PDF, DXF and USDZ export.",
+  "code": "BLACKFRIDAY",
+  "prices": [
+    {
+      "plan": "Pro Yearly, first year",
+      "before": 39.99,
+      "after": 19.99
+    }
+  ],
+  "starts": "2026-11-14",
+  "ends": "2026-12-01",
+  "terms": "New subscribers. Redeem in the App Store from the deal page. Renews at the regular yearly price after the first year."
+}

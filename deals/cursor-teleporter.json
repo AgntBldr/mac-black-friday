@@ -1,0 +1,15 @@
+{
+  "name": "Cursor Teleporter",
+  "url": "https://www.apptorium.com/cursor-teleporter",
+  "platforms": ["macOS"],
+  "category": "utilities",
+  "description": "Move the pointer instantly between Mac displays or saved positions using a shortcut or programmable mouse button.",
+  "discount": "50% off",
+  "prices": [{ "plan": "One-time", "before": 7.99, "after": 3.99 }],
+  "terms": "One-time purchase per major version. No code needed.",
+  "starts": "2026-11-20",
+  "ends": "2026-12-06",
+  "maker": "Apptorium",
+  "makerUrl": "https://www.apptorium.com",
+  "icon": "https://www.apptorium.com/shared/cursor-teleporter.png"
+}

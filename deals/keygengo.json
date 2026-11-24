@@ -1,0 +1,18 @@
+{
+  "name": "KeygenGo",
+  "url": "https://keygengo.5km.tech/black-friday?utm_source=boltai&utm_medium=deal-site&utm_campaign=bf2026",
+  "platforms": ["macOS"],
+  "category": "developer",
+  "description": "Native Mac client for Keygen.sh. Manage products, policies, licenses, users and machines for Keygen Cloud or self-hosted accounts.",
+  "discount": "50% off",
+  "prices": [
+    { "plan": "Lifetime", "before": 39.99, "after": 19.99 },
+    { "plan": "Annual (first year)", "before": 19.99, "after": 9.99 }
+  ],
+  "terms": "Lifetime needs no code. Annual needs offer code BF2026YEAR, once per Apple ID. Mac App Store.",
+  "starts": "2026-11-20",
+  "ends": "2026-12-06",
+  "maker": "5KM Tech",
+  "makerUrl": "https://x.com/okooo5km",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/d5/d2/0fd5d25e-ac80-1e01-d359-d721c3959dc3/KeygenGo-0-0-85-220-0-6-0-2x.png/512x512bb.png"
+}

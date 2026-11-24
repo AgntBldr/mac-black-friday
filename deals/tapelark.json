@@ -1,0 +1,22 @@
+{
+  "name": "Tapelark",
+  "url": "https://tapelark.com/black-friday/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "audio-video",
+  "description": "Records internet radio one file per song, on a schedule too, plus TV channels from a public list, podcasts and app sound. Also on Windows and Linux.",
+  "discount": "$10 off ($39 → $29)",
+  "prices": [
+    {
+      "plan": "Licence for Mac",
+      "before": 39,
+      "after": 29
+    }
+  ],
+  "terms": "No code needed. One-time purchase for all your Macs. Windows and Linux licences cost the same, sold separately. Tapelark Pro is not reduced.",
+  "starts": "2026-11-27",
+  "ends": "2026-11-30",
+  "makerUrl": "https://tapelark.com",
+  "icon": "https://tapelark.com/media/brand/tapelark-icon-512.png"
+}

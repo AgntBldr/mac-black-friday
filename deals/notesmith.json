@@ -1,0 +1,24 @@
+{
+  "name": "Notesmith",
+  "url": "https://psychosonicconsulting.com/notesmith",
+  "platforms": [
+    "macOS",
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "writing",
+  "description": "A local-only note app for iPhone, iPad and Mac. Imports from Evernote and Apple Notes without dropping your attachments. No account, no server.",
+  "discount": "33% off",
+  "prices": [
+    {
+      "plan": "One time purchase",
+      "before": 29.99,
+      "after": 19.99
+    }
+  ],
+  "terms": "App Store. One purchase covers Mac, iPhone and iPad. No subscription. No code needed. The price changes on Nov 27.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "maker": "Psychosonic Consulting",
+  "makerUrl": "https://psychosonicconsulting.com"
+}

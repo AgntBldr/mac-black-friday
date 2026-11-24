@@ -1,0 +1,13 @@
+{
+  "name": "Chalk",
+  "url": "https://getchalk.dev/#pricing",
+  "platforms": ["macOS"],
+  "category": "developer",
+  "description": "Whiteboard beside your terminal for Claude Code. Cross out, circle or reorder a step and Claude fixes its plan before it writes code.",
+  "discount": "50% off",
+  "prices": [{ "plan": "One-time", "before": 24, "after": 12 }],
+  "terms": "No code needed, applied automatically at checkout. 7-day free trial with no card or account. Paid in the app. macOS 13+.",
+  "starts": "2026-11-20",
+  "ends": "2026-12-01",
+  "icon": "https://getchalk.dev/icon-512.png"
+}

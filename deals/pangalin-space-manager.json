@@ -1,0 +1,23 @@
+{
+  "name": "Pangalin Space Manager",
+  "url": "https://pangalin.com/buy/space-manager/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "utilities",
+  "description": "Mac storage manager: moves big folders to an external drive with working shortcuts, merges duplicates, clears chat media by month.",
+  "discount": "30% off first year",
+  "code": "BLACKFRIDAY",
+  "prices": [
+    {
+      "plan": "Yearly (first year)",
+      "before": 25,
+      "after": 17.5
+    }
+  ],
+  "terms": "Code applied automatically from pangalin.com; then $25/year. Free to scan, first 5 GB freed free. 14-day refund. Apple silicon, macOS 13+.",
+  "starts": "2026-11-16",
+  "ends": "2026-11-30",
+  "maker": "Pangalin",
+  "makerUrl": "https://pangalin.com/"
+}

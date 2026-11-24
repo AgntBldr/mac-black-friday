@@ -1,0 +1,21 @@
+{
+  "name": "RSSTube",
+  "url": "https://apps.apple.com/app/apple-store/id6828141995?pt=119343303&ct=bf26-boltai&mt=8",
+  "platforms": [
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "launch",
+  "description": "Follow YouTube channels by RSS: only the channels you chose, newest first, with no algorithm, no account and no tracking.",
+  "discount": "Launch price $8.99",
+  "prices": [
+    {
+      "plan": "Premium Lifetime",
+      "before": 24.99,
+      "after": 8.99
+    }
+  ],
+  "terms": "One-time purchase. The App Store price drops automatically, no code. Free with up to five channels.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01"
+}

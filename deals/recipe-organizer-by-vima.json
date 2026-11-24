@@ -1,0 +1,15 @@
+{
+  "name": "Recipe Organizer by Vima",
+  "url": "https://apps.apple.com/us/app/recipe-organizer-by-vima/id6757971278?pt=296584&ct=bf26-boltai&mt=8",
+  "platforms": ["iOS", "iPadOS"],
+  "category": "launch",
+  "description": "Save recipes from websites, YouTube videos and photos of recipe cards without the ads, then plan meals and build a grocery list sorted by aisle.",
+  "discount": "Launch price $9.99",
+  "prices": [{ "plan": "Lifetime Premium", "after": 9.99 }],
+  "terms": "One-time purchase, no code. The lifetime option shows on the upgrade screen in the app through Dec 2. After that the app is subscription only ($29.99 a year).",
+  "starts": "2026-11-22",
+  "ends": "2026-12-02",
+  "maker": "Vima",
+  "makerUrl": "https://www.vimafitness.com",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/62/c6/4e62c699-776f-7283-046a-a8b04cbf7a1f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+}

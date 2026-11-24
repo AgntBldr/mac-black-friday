@@ -1,0 +1,20 @@
+{
+  "name": "DeskMinder",
+  "url": "https://deskminder.appps.od.ua/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "productivity",
+  "description": "Create quick reminders & start tasks on your desktop",
+  "discount": "43% off Lifetime",
+  "code": "BLKFR2026",
+  "prices": [
+    {
+      "plan": "Lifetime",
+      "before": 6.99,
+      "after": 3.99
+    }
+  ],
+  "starts": "2026-11-15",
+  "ends": "2026-12-01"
+}

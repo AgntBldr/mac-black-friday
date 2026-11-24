@@ -1,0 +1,22 @@
+{
+  "name": "Bibliome Library",
+  "url": "https://psychosonicconsulting.com/bibliome",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "reading",
+  "description": "A Mac PDF library that files, searches and answers questions about your documents with an on device model. Nothing is uploaded.",
+  "discount": "33% off",
+  "prices": [
+    {
+      "plan": "One time purchase",
+      "before": 29.99,
+      "after": 19.99
+    }
+  ],
+  "terms": "Mac App Store, one time purchase, no subscription. No code needed. The price changes on Nov 27.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "maker": "Psychosonic Consulting",
+  "makerUrl": "https://psychosonicconsulting.com"
+}

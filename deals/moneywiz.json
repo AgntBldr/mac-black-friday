@@ -1,0 +1,20 @@
+{
+  "name": "MoneyWiz",
+  "url": "https://www.wiz.money/black-friday",
+  "platforms": ["macOS", "iOS", "iPadOS", "watchOS"],
+  "category": "finance",
+  "discount": "20% off first period",
+  "description": "Personal finance for Mac, iPhone and iPad, with budgets, bill forecasts, reports and optional bank sync",
+  "code": "BFCM26",
+  "prices": [
+    {"plan": "Standard yearly", "before": 29.99, "after": 23.99},
+    {"plan": "Premium yearly", "before": 59.99, "after": 47.99},
+    {"plan": "Premium monthly", "before": 5.99, "after": 4.79}
+  ],
+  "starts": "2026-11-13",
+  "ends": "2026-12-01",
+  "terms": "Website only, new purchases. No App Store discount. Renews at regular price. US reference prices.",
+  "maker": "Iliya Yordanov / SilverWiz LLC",
+  "makerUrl": "https://x.com/IliyaYordanov",
+  "icon": "https://www.wiz.money/images/moneywiz-mark.png"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Yaptake",
+  "url": "https://yaptake.com/#pricing",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "audio-video",
+  "description": "Video editor for Mac that works like a document: delete words in the transcript to cut them from the video, tighten pauses and burn in captions.",
+  "discount": "50% off the first year",
+  "code": "YAPTAKEBF26",
+  "terms": "New subscribers: Monthly is $4.99 a month for your first 12 months, Yearly is $39.50 for the first year. Your first three exports are free.",
+  "starts": "2026-11-18",
+  "ends": "2026-12-02",
+  "maker": "Hraness"
+}
