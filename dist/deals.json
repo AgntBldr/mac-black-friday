@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T08:15:58.042Z",
+  "updatedAt": "2026-11-24T10:02:01.752Z",
   "categories": [
     {
       "id": "ai",
@@ -1068,6 +1068,30 @@
       "starts": "2026-11-27",
       "terms": "App Store and Google Play: no code. Desktop-only Pro: BF2026. One-time purchase. Lifetime Pro includes every Deckloud app we add, including Calendar and Mail.",
       "addedAt": "2026-11-09T13:18:51.000Z"
+    },
+    {
+      "id": "deface",
+      "name": "Deface: Blur Faces in Video",
+      "url": "https://apps.apple.com/us/app/deface-blur-faces-in-video/id6767766955",
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "audio-video",
+      "description": "Finds and blurs every face in your videos and photos automatically, 100% on device. No uploads, no account.",
+      "discount": "40% off lifetime",
+      "prices": [
+        {
+          "plan": "Pro Lifetime",
+          "before": 24.99,
+          "after": 14.99
+        }
+      ],
+      "terms": "You don't need a code. The sale price shows on the upgrade screen in the app.",
+      "starts": "2026-11-20",
+      "ends": "2026-12-02",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/af/0f/47af0f23-63c7-fc8b-dcfa-d628dd23af00/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "addedAt": "2026-11-24T10:01:53.000Z"
     },
     {
       "id": "deletti",
@@ -2244,6 +2268,37 @@
       "addedAt": "2026-11-09T13:22:25.000Z"
     },
     {
+      "id": "keystro",
+      "name": "Keystro",
+      "url": "https://keystro.app/#pricing",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "discount": "30% off",
+      "description": "Shows your keystrokes on screen, highlights your cursor and plays mechanical key sounds for presentations, tutorials and streams.",
+      "code": "BFKEYSTRO26",
+      "prices": [
+        {
+          "plan": "Standard",
+          "before": 6.99,
+          "after": 4.89
+        },
+        {
+          "plan": "Extended",
+          "before": 14,
+          "after": 9.8
+        },
+        {
+          "plan": "Team",
+          "before": 39,
+          "after": 27.3
+        }
+      ],
+      "ends": "2026-12-04",
+      "addedAt": "2026-11-24T09:40:12.000Z"
+    },
+    {
       "id": "kilobat-pro",
       "name": "Kilobat Pro",
       "url": "https://kilobat.app",
@@ -2258,6 +2313,32 @@
       "starts": "2026-11-20",
       "terms": "BLACKFRIDAY30; one-time Pro license for two Macs, includes v1 updates; 2026-11-20 to 2026-11-30 (upcoming)",
       "addedAt": "2026-11-09T13:23:31.000Z"
+    },
+    {
+      "id": "kompressor",
+      "name": "Kompressor",
+      "url": "https://apps.apple.com/app/apple-store/id6468196574?pt=123127751&ct=boltai.com&mt=8",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "design",
+      "description": "Fast image converter for Mac: convert, compress and resize 50+ formats like HEIC, WebP, AVIF and RAW, fully offline.",
+      "discount": "47% off Lifetime",
+      "code": "INDIEAPPSALES2026",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 14,
+          "after": 7.49
+        }
+      ],
+      "terms": "One-time in-app purchase on the Mac App Store. Redeem the offer code in the App Store. US price, local prices vary.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "maker": "Lucas Fischer",
+      "makerUrl": "https://lucas.love",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/4f/96/444f9621-f8fa-df4d-9a8f-7b424abb629d/AppIcon-0-0-85-220-0-6-0-2x.png/512x512bb.png",
+      "addedAt": "2026-11-24T09:38:51.000Z"
     },
     {
       "id": "ktool",
@@ -2388,6 +2469,33 @@
       "addedAt": "2026-11-18T02:09:03.000Z"
     },
     {
+      "id": "linger",
+      "name": "Linger",
+      "url": "https://withlinger.com/black-friday/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "discount": "Launch price $49",
+      "description": "Local-first image organizer for design references, with source links, notes, text search, and color filters on Apple Silicon Macs.",
+      "prices": [
+        {
+          "plan": "Personal",
+          "before": 39,
+          "after": 25
+        },
+        {
+          "plan": "Lifetime",
+          "before": 79,
+          "after": 49
+        }
+      ],
+      "starts": "2026-11-19",
+      "ends": "2026-12-01",
+      "terms": "Prices in USD. Offer applies automatically, no code needed. Ends December 1 at 11:59 p.m. Pacific time. Requires macOS 14+ on Apple Silicon.",
+      "addedAt": "2026-11-24T09:47:34.000Z"
+    },
+    {
       "id": "looq",
       "name": "Looq",
       "url": "https://parcse.com/looq",
@@ -2467,6 +2575,34 @@
       "starts": "2026-11-23",
       "terms": "BLACKFRIDAY26; one-time purchase, license covers 3 Macs; 2026-11-23 to 2026-12-01 (UTC)",
       "addedAt": "2026-11-09T13:21:33.000Z"
+    },
+    {
+      "id": "macrowave",
+      "name": "Macrowave",
+      "url": "https://apps.apple.com/app/apple-store/id6746954963?pt=123127751&ct=boltai.com&mt=8",
+      "platforms": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "audio-video",
+      "description": "Turn your Mac, iPhone or iPad into a private radio station and share any audio live with just a link. No accounts, no setup.",
+      "discount": "33% off Lifetime",
+      "code": "INDIEAPPSALES2026",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 119,
+          "after": 79.99
+        }
+      ],
+      "terms": "One-time in-app purchase. Redeem the offer code in the App Store. Also €79 instead of €119 on macrowave.co with the same code. US price.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "maker": "Lucas Fischer",
+      "makerUrl": "https://lucas.love",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/22/15/c8221502-6ca1-d3cd-a0ac-6fd6c58f0fe9/AppIcon-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg",
+      "addedAt": "2026-11-24T09:38:51.000Z"
     },
     {
       "id": "macvisor",
@@ -2959,6 +3095,34 @@
       "makerUrl": "https://loshadki.app",
       "icon": "https://loshadki.app/images/paddock.png",
       "addedAt": "2026-11-16T02:41:09.000Z"
+    },
+    {
+      "id": "pagi",
+      "name": "Pagi",
+      "url": "https://apps.apple.com/app/apple-store/id1586446074?pt=123127751&ct=boltai.com&mt=8",
+      "platforms": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "writing",
+      "description": "A calm writing app for morning pages, with a focus mode that highlights your current sentence, a word counter and writing goals.",
+      "discount": "50% off Lifetime",
+      "code": "INDIEAPPSALES2026",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 9.99,
+          "after": 4.99
+        }
+      ],
+      "terms": "One-time in-app purchase. Redeem the offer code in the App Store. US price, local prices vary.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "maker": "Lucas Fischer",
+      "makerUrl": "https://lucas.love",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/04/c8/7904c8e1-15f2-66db-7b6f-19e6e06070f4/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "addedAt": "2026-11-24T09:38:51.000Z"
     },
     {
       "id": "palmscreen",
