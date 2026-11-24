@@ -2,7 +2,7 @@
 
 A personal, curated list. Deals that don't fit are closed.
 
-**We hand check every app** to keep the list good. So your app must be downloadable without paying: a free download, free version or free trial. No purchase, license key or invite needed to try it.
+**We hand check every app** to keep the list good. So your app must be downloadable without paying: a free download, free version or free trial. No purchase, license key or invite needed to try it. Paid App Store apps are fine: we review them from the App Store listing.
 
 - Apps for Mac, iPhone, iPad, Apple Vision Pro or Apple Watch only. Finished and maintained.
 - A real Black Friday deal on your own app, with the price and the dates. Starting in November, ending between Nov 20 and Dec 15.

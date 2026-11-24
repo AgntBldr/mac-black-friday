@@ -34,4 +34,4 @@ Required: `name`, `url`, `platforms`, `category`, `discount`, `ends`. Everything
 - Optional too: `starts` (November or later), `terms` (up to 160 characters), `makerUrl`, `icon` (https link to a square icon).
 - Never set `featured`.
 
-Only finished Mac and iOS apps with a real Black Friday deal are merged. Every app is checked by hand, so it must be downloadable without paying (free download, free version or free trial). The `before` price must have been the real price for at least 20 days before the deal starts; otherwise use `launch`. If the deal starts later, set `starts`. See [RULES.md](RULES.md).
+Only finished Mac and iOS apps with a real Black Friday deal are merged. Every app is checked by hand, so it must be downloadable without paying (free download, free version or free trial); paid App Store apps are reviewed from their listing. The `before` price must have been the real price for at least 20 days before the deal starts; otherwise use `launch`. If the deal starts later, set `starts`. See [RULES.md](RULES.md).
