@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T11:02:06.594Z",
+  "updatedAt": "2026-11-24T11:02:53.773Z",
   "categories": [
     {
       "id": "ai",
@@ -359,6 +359,22 @@
       "ends": "2026-11-30",
       "makerUrl": "https://beatchessapp.com",
       "addedAt": "2026-11-10T02:19:21.000Z"
+    },
+    {
+      "id": "betterdisplay-pro",
+      "name": "BetterDisplay Pro",
+      "url": "https://betterdisplay.pro",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "discount": "33% off",
+      "description": "Supercharge your Mac displays - custom HiDPI resolutions, XDR/HDR extra brightness, virtual screens, Picture-in-Picture, image adjustments and more…",
+      "code": "BFCM2026",
+      "starts": "2026-11-26",
+      "ends": "2026-12-01",
+      "makerUrl": "https://betterdisplay.pro",
+      "addedAt": "2026-11-24T11:02:43.000Z"
     },
     {
       "id": "betterstage",
