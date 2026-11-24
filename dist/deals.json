@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T15:50:40.609Z",
+  "updatedAt": "2026-11-24T05:17:38.660Z",
   "categories": [
     {
       "id": "ai",
@@ -1796,6 +1796,35 @@
       "maker": "Arsen Kolyba",
       "makerUrl": "https://www.arsenkolyba.com",
       "addedAt": "2026-11-13T11:10:09.000Z"
+    },
+    {
+      "id": "fotilo",
+      "name": "Fotilo",
+      "url": "https://fotilo.app/?utm_source=gh-mac-black-friday&utm_campaign=bf2026",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "description": "Screenshots and screen recording: several shots on one annotated canvas, and recordings dubbed into another language in your own voice.",
+      "discount": "Launch price $29.50",
+      "prices": [
+        {
+          "plan": "Screenshot & Recording Pro Lifetime",
+          "before": 59,
+          "after": 29.5
+        },
+        {
+          "plan": "Screenshot Pro Lifetime",
+          "before": 19,
+          "after": 9.5
+        }
+      ],
+      "terms": "No code: applied automatically on fotilo.app. One-time purchase. 50% off local prices in every region. Subscriptions excluded. Ends 11:59 pm PT.",
+      "starts": "2026-11-23",
+      "ends": "2026-12-01",
+      "maker": "Foam Zou",
+      "makerUrl": "https://fotilo.app",
+      "addedAt": "2026-11-24T05:17:28.000Z"
     },
     {
       "id": "fresh-notch",
