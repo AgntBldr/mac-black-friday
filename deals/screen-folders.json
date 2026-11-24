@@ -1,0 +1,13 @@
+{
+  "name": "Screen Folders",
+  "url": "https://screenfolders.delitx.dev/pricing",
+  "platforms": ["macOS"],
+  "category": "utilities",
+  "description": "Keeps real Finder folders on your desktop as compact tiles that expand into a file grid when you hover over them.",
+  "discount": "33% off",
+  "prices": [{ "plan": "Lifetime", "before": 15, "after": 10 }],
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "terms": "Direct download edition, no code needed. Sale ends Dec 1 at 12:00 UTC. 14-day free trial. Requires macOS 26 or later.",
+  "icon": "https://screenfolders.delitx.dev/app-icon-512.png"
+}
