@@ -1,0 +1,13 @@
+{
+  "name": "Deface: Blur Faces in Video",
+  "url": "https://apps.apple.com/us/app/deface-blur-faces-in-video/id6767766955",
+  "platforms": ["iOS", "iPadOS"],
+  "category": "audio-video",
+  "description": "Finds and blurs every face in your videos and photos automatically, 100% on device. No uploads, no account.",
+  "discount": "40% off lifetime",
+  "prices": [{ "plan": "Pro Lifetime", "before": 24.99, "after": 14.99 }],
+  "terms": "You don't need a code. The sale price shows on the upgrade screen in the app.",
+  "starts": "2026-11-20",
+  "ends": "2026-12-02",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/af/0f/47af0f23-63c7-fc8b-dcfa-d628dd23af00/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+}
