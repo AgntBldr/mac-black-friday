@@ -1,0 +1,15 @@
+{
+  "name": "Termalin",
+  "url": "https://termal.in/pricing/?utm_source=bf-boltai&utm_medium=referral&utm_campaign=bf2026",
+  "platforms": ["macOS", "iOS", "iPadOS"],
+  "category": "developer",
+  "description": "SSH, SFTP, RDP and database client that also lets ChatGPT and Claude run commands on your servers without SSH keys. Signed and notarized.",
+  "discount": "16 months for the price of 12",
+  "prices": [{ "plan": "Pro yearly", "after": 96 }],
+  "terms": "Yearly Pro bought on termal.in at the usual $96 ($8 → $6/mo) runs 16 months, plus 100 GB cloud storage while on Pro. Applied at checkout, no code.",
+  "starts": "2026-11-23",
+  "ends": "2026-12-01",
+  "maker": "Termalin",
+  "makerUrl": "https://termal.in",
+  "icon": "https://termal.in/icon-512.png"
+}
