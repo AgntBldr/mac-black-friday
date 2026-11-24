@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T11:59:28.320Z",
+  "updatedAt": "2026-11-24T14:14:05.211Z",
   "categories": [
     {
       "id": "ai",
@@ -5268,6 +5268,31 @@
       "makerUrl": "https://tutti.barrybarrywu.com/",
       "icon": "https://tutti.barrybarrywu.com/icon.png",
       "addedAt": "2026-11-21T04:18:34.000Z"
+    },
+    {
+      "id": "twofold",
+      "name": "Twofold",
+      "url": "https://twofolddiagrams.com/#pricing",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "description": "Native Mac editor for Mermaid ER diagrams: type the text or draw on the canvas and both stay in sync, in Mermaid files or Markdown docs.",
+      "discount": "Launch price $19.50",
+      "code": "LAUNCHWEEK",
+      "prices": [
+        {
+          "plan": "One-time license, 3 Macs",
+          "before": 39,
+          "after": 19.5
+        }
+      ],
+      "terms": "Enter the code in the in-app checkout after the 14-day free trial. Direct download only, not the Mac App Store version.",
+      "starts": "2026-11-24",
+      "ends": "2026-11-30",
+      "maker": "PeerAssembly",
+      "makerUrl": "https://twofolddiagrams.com",
+      "addedAt": "2026-11-24T14:13:43.000Z"
     },
     {
       "id": "typeboost",
