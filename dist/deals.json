@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T08:15:58.042Z",
+  "updatedAt": "2026-11-24T09:39:00.776Z",
   "categories": [
     {
       "id": "ai",
@@ -2260,6 +2260,32 @@
       "addedAt": "2026-11-09T13:23:31.000Z"
     },
     {
+      "id": "kompressor",
+      "name": "Kompressor",
+      "url": "https://apps.apple.com/app/apple-store/id6468196574?pt=123127751&ct=boltai.com&mt=8",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "design",
+      "description": "Fast image converter for Mac: convert, compress and resize 50+ formats like HEIC, WebP, AVIF and RAW, fully offline.",
+      "discount": "47% off Lifetime",
+      "code": "INDIEAPPSALES2026",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 14,
+          "after": 7.49
+        }
+      ],
+      "terms": "One-time in-app purchase on the Mac App Store. Redeem the offer code in the App Store. US price, local prices vary.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "maker": "Lucas Fischer",
+      "makerUrl": "https://lucas.love",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/4f/96/444f9621-f8fa-df4d-9a8f-7b424abb629d/AppIcon-0-0-85-220-0-6-0-2x.png/512x512bb.png",
+      "addedAt": "2026-11-24T09:38:51.000Z"
+    },
+    {
       "id": "ktool",
       "name": "KTool",
       "url": "https://ktool.io/pricing#lifetime",
@@ -2467,6 +2493,34 @@
       "starts": "2026-11-23",
       "terms": "BLACKFRIDAY26; one-time purchase, license covers 3 Macs; 2026-11-23 to 2026-12-01 (UTC)",
       "addedAt": "2026-11-09T13:21:33.000Z"
+    },
+    {
+      "id": "macrowave",
+      "name": "Macrowave",
+      "url": "https://apps.apple.com/app/apple-store/id6746954963?pt=123127751&ct=boltai.com&mt=8",
+      "platforms": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "audio-video",
+      "description": "Turn your Mac, iPhone or iPad into a private radio station and share any audio live with just a link. No accounts, no setup.",
+      "discount": "33% off Lifetime",
+      "code": "INDIEAPPSALES2026",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 119,
+          "after": 79.99
+        }
+      ],
+      "terms": "One-time in-app purchase. Redeem the offer code in the App Store. Also €79 instead of €119 on macrowave.co with the same code. US price.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "maker": "Lucas Fischer",
+      "makerUrl": "https://lucas.love",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/22/15/c8221502-6ca1-d3cd-a0ac-6fd6c58f0fe9/AppIcon-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg",
+      "addedAt": "2026-11-24T09:38:51.000Z"
     },
     {
       "id": "macvisor",
@@ -2959,6 +3013,34 @@
       "makerUrl": "https://loshadki.app",
       "icon": "https://loshadki.app/images/paddock.png",
       "addedAt": "2026-11-16T02:41:09.000Z"
+    },
+    {
+      "id": "pagi",
+      "name": "Pagi",
+      "url": "https://apps.apple.com/app/apple-store/id1586446074?pt=123127751&ct=boltai.com&mt=8",
+      "platforms": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "writing",
+      "description": "A calm writing app for morning pages, with a focus mode that highlights your current sentence, a word counter and writing goals.",
+      "discount": "50% off Lifetime",
+      "code": "INDIEAPPSALES2026",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 9.99,
+          "after": 4.99
+        }
+      ],
+      "terms": "One-time in-app purchase. Redeem the offer code in the App Store. US price, local prices vary.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "maker": "Lucas Fischer",
+      "makerUrl": "https://lucas.love",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/04/c8/7904c8e1-15f2-66db-7b6f-19e6e06070f4/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "addedAt": "2026-11-24T09:38:51.000Z"
     },
     {
       "id": "palmscreen",
