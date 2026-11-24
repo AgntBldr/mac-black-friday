@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T05:17:38.660Z",
+  "updatedAt": "2026-11-24T05:18:03.426Z",
   "categories": [
     {
       "id": "ai",
@@ -3959,6 +3959,58 @@
       "starts": "2026-11-27",
       "terms": "BLACKFRIDAY26; 2026-11-27 to 2026-12-01",
       "addedAt": "2026-11-09T13:22:51.000Z"
+    },
+    {
+      "id": "sleep-songs",
+      "name": "Sleep Songs",
+      "url": "https://apps.apple.com/us/app/sleep-songs/id481128551",
+      "category": "audio-video",
+      "description": "12 calm, professionally recorded songs that loop, playlists by minutes or loops, and a sleep timer. Synced with iCloud.",
+      "platforms": [
+        "iOS",
+        "iPadOS",
+        "macOS"
+      ],
+      "discount": "80% off",
+      "prices": [
+        {
+          "plan": "One-time purchase",
+          "before": 4.99,
+          "after": 0.99
+        }
+      ],
+      "terms": "App Store price drop, no code needed. One purchase covers iPhone, iPad and Mac. US price; local prices vary.",
+      "starts": "2026-11-26",
+      "ends": "2026-11-30",
+      "maker": "Tom Dyess",
+      "makerUrl": "https://www.dysr.com",
+      "addedAt": "2026-11-24T05:17:54.000Z"
+    },
+    {
+      "id": "sleep-sounds",
+      "name": "Sleep Sounds",
+      "url": "https://apps.apple.com/us/app/sleep-sounds/id390555459",
+      "category": "health",
+      "description": "Mix 36 looping nature sounds (rain, ocean, birds, fire, a new Cafe) at your own volumes, save mixes and set a sleep timer.",
+      "platforms": [
+        "iOS",
+        "iPadOS",
+        "macOS"
+      ],
+      "discount": "80% off",
+      "prices": [
+        {
+          "plan": "One-time purchase",
+          "before": 4.99,
+          "after": 0.99
+        }
+      ],
+      "terms": "App Store price drop, no code needed. One purchase covers iPhone, iPad and Mac. US price; local prices vary.",
+      "starts": "2026-11-26",
+      "ends": "2026-11-30",
+      "maker": "Tom Dyess",
+      "makerUrl": "https://www.dysr.com",
+      "addedAt": "2026-11-24T05:17:54.000Z"
     },
     {
       "id": "smartinbox",
