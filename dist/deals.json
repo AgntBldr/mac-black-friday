@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T14:14:05.211Z",
+  "updatedAt": "2026-11-24T20:13:42.752Z",
   "categories": [
     {
       "id": "ai",
@@ -3850,6 +3850,29 @@
       "starts": "2026-11-24",
       "terms": "Automatically applied to the one-time in-app purchase. No code needed. November 24–30, 2026.",
       "addedAt": "2026-11-09T13:23:44.000Z"
+    },
+    {
+      "id": "screen-folders",
+      "name": "Screen Folders",
+      "url": "https://screenfolders.delitx.dev/pricing",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Keeps real Finder folders on your desktop as compact tiles that expand into a file grid when you hover over them.",
+      "discount": "33% off",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 15,
+          "after": 10
+        }
+      ],
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "terms": "Direct download edition, no code needed. Sale ends Dec 1 at 12:00 UTC. 14-day free trial. Requires macOS 26 or later.",
+      "icon": "https://screenfolders.delitx.dev/app-icon-512.png",
+      "addedAt": "2026-11-24T20:13:34.000Z"
     },
     {
       "id": "screenkite",
