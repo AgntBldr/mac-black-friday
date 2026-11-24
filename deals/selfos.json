@@ -7,18 +7,18 @@
     "watchOS"
   ],
   "category": "health",
-  "discount": "Up to 49% off",
+  "discount": "Up to 40% off",
   "description": "Self-care and productivity in one calm place: tasks, habits, water and sleep, with a bonsai that grows every day you show up. Apple Watch and widgets.",
   "code": "BLACKFRIDAY2026",
   "prices": [
     {
       "plan": "Yearly (first year)",
-      "before": 34.99,
+      "before": 29.99,
       "after": 17.99
     },
     {
       "plan": "Lifetime",
-      "before": 89.99,
+      "before": 79.99,
       "after": 59.99
     }
   ],
