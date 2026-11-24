@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T05:18:03.426Z",
+  "updatedAt": "2026-11-24T05:18:28.175Z",
   "categories": [
     {
       "id": "ai",
@@ -789,17 +789,16 @@
       "platforms": [
         "iOS"
       ],
-      "category": "other",
-      "discount": "67% off ($2.99 → $0.99)",
+      "category": "launch",
+      "discount": "Launch price $2.99",
       "description": "Weather app for iPhone that turns your forecast into a comic book page: Apple Weather forecasts painted as comic panels in four skins, with three narrators.",
       "prices": [
         {
-          "plan": "Paid app (one-time purchase)",
-          "before": 2.99,
-          "after": 0.99
+          "plan": "Comic Weather Full (one-time in-app purchase)",
+          "after": 2.99
         }
       ],
-      "terms": "US price; local prices vary. Paid app, no in-app purchases or subscription. No code needed. $2.99 since launch. iPhone, iOS 18+.",
+      "terms": "US price; local prices vary. Free download with a 7-day trial. Full is $4.99 again from Dec 1 (sold since Nov 16). No code needed. iPhone, iOS 18+.",
       "starts": "2026-11-27",
       "ends": "2026-11-30",
       "maker": "Simple Products Studio",
@@ -3959,6 +3958,34 @@
       "starts": "2026-11-27",
       "terms": "BLACKFRIDAY26; 2026-11-27 to 2026-12-01",
       "addedAt": "2026-11-09T13:22:51.000Z"
+    },
+    {
+      "id": "skywall",
+      "name": "Skywall",
+      "url": "https://getskywall.app/black-friday?ref=boltai",
+      "platforms": [
+        "macOS",
+        "iOS",
+        "iPadOS",
+        "visionOS"
+      ],
+      "category": "audio-video",
+      "discount": "33% off ($5.99 → $3.99)",
+      "description": "Live TV wall for Mac, iPhone, iPad and Apple Vision Pro: up to nine official live channels on one screen, with sound from the one you tap.",
+      "prices": [
+        {
+          "plan": "Skywall Full (one-time in-app purchase)",
+          "before": 5.99,
+          "after": 3.99
+        }
+      ],
+      "terms": "US price; local prices vary. Free download; Skywall Full unlocks everything. $5.99 since launch, first as the paid app, now as Full. No code needed.",
+      "starts": "2026-11-27",
+      "ends": "2026-11-30",
+      "maker": "Simple Products Studio",
+      "makerUrl": "https://getskywall.app",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/1c/0b/c21c0b53-3546-d814-bff1-9ebc4fb2bbff/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "addedAt": "2026-11-24T05:18:20.000Z"
     },
     {
       "id": "sleep-songs",
