@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T09:40:22.184Z",
+  "updatedAt": "2026-11-24T09:47:43.844Z",
   "categories": [
     {
       "id": "ai",
@@ -2443,6 +2443,33 @@
       "terms": "Web purchase only; no active subscription; no trial. Use the same email in app. Renews $39.99/year. Ends Nov 30, 21:00 UTC.",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/5e/22/af5e22cc-c24a-4710-9457-4a97f9c39214/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "addedAt": "2026-11-18T02:09:03.000Z"
+    },
+    {
+      "id": "linger",
+      "name": "Linger",
+      "url": "https://withlinger.com/black-friday/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "discount": "Launch price $49",
+      "description": "Local-first image organizer for design references, with source links, notes, text search, and color filters on Apple Silicon Macs.",
+      "prices": [
+        {
+          "plan": "Personal",
+          "before": 39,
+          "after": 25
+        },
+        {
+          "plan": "Lifetime",
+          "before": 79,
+          "after": 49
+        }
+      ],
+      "starts": "2026-11-19",
+      "ends": "2026-12-01",
+      "terms": "Prices in USD. Offer applies automatically, no code needed. Ends December 1 at 11:59 p.m. Pacific time. Requires macOS 14+ on Apple Silicon.",
+      "addedAt": "2026-11-24T09:47:34.000Z"
     },
     {
       "id": "looq",
