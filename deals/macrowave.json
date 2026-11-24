@@ -1,0 +1,26 @@
+{
+  "name": "Macrowave",
+  "url": "https://apps.apple.com/app/apple-store/id6746954963?pt=123127751&ct=boltai.com&mt=8",
+  "platforms": [
+    "macOS",
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "audio-video",
+  "description": "Turn your Mac, iPhone or iPad into a private radio station and share any audio live with just a link. No accounts, no setup.",
+  "discount": "33% off Lifetime",
+  "code": "INDIEAPPSALES2026",
+  "prices": [
+    {
+      "plan": "Lifetime",
+      "before": 119,
+      "after": 79.99
+    }
+  ],
+  "terms": "One-time in-app purchase. Redeem the offer code in the App Store. Also €79 instead of €119 on macrowave.co with the same code. US price.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "maker": "Lucas Fischer",
+  "makerUrl": "https://lucas.love",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/22/15/c8221502-6ca1-d3cd-a0ac-6fd6c58f0fe9/AppIcon-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg"
+}

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T15:50:40.609Z",
+  "updatedAt": "2026-11-24T09:40:22.184Z",
   "categories": [
     {
       "id": "ai",
@@ -290,6 +290,27 @@
       "ends": "2026-12-15",
       "makerUrl": "https://www.babapic.cc/",
       "addedAt": "2026-11-22T16:19:22.000Z"
+    },
+    {
+      "id": "bandje",
+      "name": "Band·je",
+      "url": "https://band.je/",
+      "platforms": [
+        "macOS",
+        "iOS",
+        "iPadOS",
+        "watchOS"
+      ],
+      "category": "launch",
+      "discount": "Launch price €9.99",
+      "description": "Record calls on your Mac without a bot and get the transcript with who said what, on device in 25 languages, plus fast dictation for prompting.",
+      "code": "BLACKFRIDAY",
+      "terms": "Band·je Unlimited, one-time purchase (normally €19.99). Code for the band.je download; App Store price already lowered, no code.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "icon": "https://band.je/icon-512.png",
+      "makerUrl": "https://band.je/",
+      "addedAt": "2026-11-24T05:18:35.000Z"
     },
     {
       "id": "barcodecraft",
@@ -789,17 +810,16 @@
       "platforms": [
         "iOS"
       ],
-      "category": "other",
-      "discount": "67% off ($2.99 → $0.99)",
+      "category": "launch",
+      "discount": "Launch price $2.99",
       "description": "Weather app for iPhone that turns your forecast into a comic book page: Apple Weather forecasts painted as comic panels in four skins, with three narrators.",
       "prices": [
         {
-          "plan": "Paid app (one-time purchase)",
-          "before": 2.99,
-          "after": 0.99
+          "plan": "Comic Weather Full (one-time in-app purchase)",
+          "after": 2.99
         }
       ],
-      "terms": "US price; local prices vary. Paid app, no in-app purchases or subscription. No code needed. $2.99 since launch. iPhone, iOS 18+.",
+      "terms": "US price; local prices vary. Free download with a 7-day trial. Full is $4.99 again from Dec 1 (sold since Nov 16). No code needed. iPhone, iOS 18+.",
       "starts": "2026-11-27",
       "ends": "2026-11-30",
       "maker": "Simple Products Studio",
@@ -1798,6 +1818,35 @@
       "addedAt": "2026-11-13T11:10:09.000Z"
     },
     {
+      "id": "fotilo",
+      "name": "Fotilo",
+      "url": "https://fotilo.app/?utm_source=gh-mac-black-friday&utm_campaign=bf2026",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "description": "Screenshots and screen recording: several shots on one annotated canvas, and recordings dubbed into another language in your own voice.",
+      "discount": "Launch price $29.50",
+      "prices": [
+        {
+          "plan": "Screenshot & Recording Pro Lifetime",
+          "before": 59,
+          "after": 29.5
+        },
+        {
+          "plan": "Screenshot Pro Lifetime",
+          "before": 19,
+          "after": 9.5
+        }
+      ],
+      "terms": "No code: applied automatically on fotilo.app. One-time purchase. 50% off local prices in every region. Subscriptions excluded. Ends 11:59 pm PT.",
+      "starts": "2026-11-23",
+      "ends": "2026-12-01",
+      "maker": "Foam Zou",
+      "makerUrl": "https://fotilo.app",
+      "addedAt": "2026-11-24T05:17:28.000Z"
+    },
+    {
       "id": "fresh-notch",
       "name": "Fresh Notch",
       "url": "https://freshnotch.com/#pricing",
@@ -2195,6 +2244,37 @@
       "addedAt": "2026-11-09T13:22:25.000Z"
     },
     {
+      "id": "keystro",
+      "name": "Keystro",
+      "url": "https://keystro.app/#pricing",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "discount": "30% off",
+      "description": "Shows your keystrokes on screen, highlights your cursor and plays mechanical key sounds for presentations, tutorials and streams.",
+      "code": "BFKEYSTRO26",
+      "prices": [
+        {
+          "plan": "Standard",
+          "before": 6.99,
+          "after": 4.89
+        },
+        {
+          "plan": "Extended",
+          "before": 14,
+          "after": 9.8
+        },
+        {
+          "plan": "Team",
+          "before": 39,
+          "after": 27.3
+        }
+      ],
+      "ends": "2026-12-04",
+      "addedAt": "2026-11-24T09:40:12.000Z"
+    },
+    {
       "id": "kilobat-pro",
       "name": "Kilobat Pro",
       "url": "https://kilobat.app",
@@ -2209,6 +2289,32 @@
       "starts": "2026-11-20",
       "terms": "BLACKFRIDAY30; one-time Pro license for two Macs, includes v1 updates; 2026-11-20 to 2026-11-30 (upcoming)",
       "addedAt": "2026-11-09T13:23:31.000Z"
+    },
+    {
+      "id": "kompressor",
+      "name": "Kompressor",
+      "url": "https://apps.apple.com/app/apple-store/id6468196574?pt=123127751&ct=boltai.com&mt=8",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "design",
+      "description": "Fast image converter for Mac: convert, compress and resize 50+ formats like HEIC, WebP, AVIF and RAW, fully offline.",
+      "discount": "47% off Lifetime",
+      "code": "INDIEAPPSALES2026",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 14,
+          "after": 7.49
+        }
+      ],
+      "terms": "One-time in-app purchase on the Mac App Store. Redeem the offer code in the App Store. US price, local prices vary.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "maker": "Lucas Fischer",
+      "makerUrl": "https://lucas.love",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/4f/96/444f9621-f8fa-df4d-9a8f-7b424abb629d/AppIcon-0-0-85-220-0-6-0-2x.png/512x512bb.png",
+      "addedAt": "2026-11-24T09:38:51.000Z"
     },
     {
       "id": "ktool",
@@ -2418,6 +2524,34 @@
       "starts": "2026-11-23",
       "terms": "BLACKFRIDAY26; one-time purchase, license covers 3 Macs; 2026-11-23 to 2026-12-01 (UTC)",
       "addedAt": "2026-11-09T13:21:33.000Z"
+    },
+    {
+      "id": "macrowave",
+      "name": "Macrowave",
+      "url": "https://apps.apple.com/app/apple-store/id6746954963?pt=123127751&ct=boltai.com&mt=8",
+      "platforms": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "audio-video",
+      "description": "Turn your Mac, iPhone or iPad into a private radio station and share any audio live with just a link. No accounts, no setup.",
+      "discount": "33% off Lifetime",
+      "code": "INDIEAPPSALES2026",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 119,
+          "after": 79.99
+        }
+      ],
+      "terms": "One-time in-app purchase. Redeem the offer code in the App Store. Also €79 instead of €119 on macrowave.co with the same code. US price.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "maker": "Lucas Fischer",
+      "makerUrl": "https://lucas.love",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/22/15/c8221502-6ca1-d3cd-a0ac-6fd6c58f0fe9/AppIcon-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg",
+      "addedAt": "2026-11-24T09:38:51.000Z"
     },
     {
       "id": "macvisor",
@@ -2910,6 +3044,34 @@
       "makerUrl": "https://loshadki.app",
       "icon": "https://loshadki.app/images/paddock.png",
       "addedAt": "2026-11-16T02:41:09.000Z"
+    },
+    {
+      "id": "pagi",
+      "name": "Pagi",
+      "url": "https://apps.apple.com/app/apple-store/id1586446074?pt=123127751&ct=boltai.com&mt=8",
+      "platforms": [
+        "macOS",
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "writing",
+      "description": "A calm writing app for morning pages, with a focus mode that highlights your current sentence, a word counter and writing goals.",
+      "discount": "50% off Lifetime",
+      "code": "INDIEAPPSALES2026",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 9.99,
+          "after": 4.99
+        }
+      ],
+      "terms": "One-time in-app purchase. Redeem the offer code in the App Store. US price, local prices vary.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "maker": "Lucas Fischer",
+      "makerUrl": "https://lucas.love",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/04/c8/7904c8e1-15f2-66db-7b6f-19e6e06070f4/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "addedAt": "2026-11-24T09:38:51.000Z"
     },
     {
       "id": "palmscreen",
@@ -3537,6 +3699,7 @@
       "terms": "One-time purchase. The App Store price drops automatically, no code. Free with up to five channels.",
       "starts": "2026-11-27",
       "ends": "2026-12-01",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/83/b1/da83b12b-a49e-6e92-d487-80a2b77fde2b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "addedAt": "2026-11-19T11:29:07.000Z"
     },
     {
@@ -3930,6 +4093,86 @@
       "starts": "2026-11-27",
       "terms": "BLACKFRIDAY26; 2026-11-27 to 2026-12-01",
       "addedAt": "2026-11-09T13:22:51.000Z"
+    },
+    {
+      "id": "skywall",
+      "name": "Skywall",
+      "url": "https://getskywall.app/black-friday?ref=boltai",
+      "platforms": [
+        "macOS",
+        "iOS",
+        "iPadOS",
+        "visionOS"
+      ],
+      "category": "audio-video",
+      "discount": "33% off ($5.99 → $3.99)",
+      "description": "Live TV wall for Mac, iPhone, iPad and Apple Vision Pro: up to nine official live channels on one screen, with sound from the one you tap.",
+      "prices": [
+        {
+          "plan": "Skywall Full (one-time in-app purchase)",
+          "before": 5.99,
+          "after": 3.99
+        }
+      ],
+      "terms": "US price; local prices vary. Free download; Skywall Full unlocks everything. $5.99 since launch, first as the paid app, now as Full. No code needed.",
+      "starts": "2026-11-27",
+      "ends": "2026-11-30",
+      "maker": "Simple Products Studio",
+      "makerUrl": "https://getskywall.app",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/1c/0b/c21c0b53-3546-d814-bff1-9ebc4fb2bbff/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "addedAt": "2026-11-24T05:18:20.000Z"
+    },
+    {
+      "id": "sleep-songs",
+      "name": "Sleep Songs",
+      "url": "https://apps.apple.com/us/app/sleep-songs/id481128551",
+      "category": "audio-video",
+      "description": "12 calm, professionally recorded songs that loop, playlists by minutes or loops, and a sleep timer. Synced with iCloud.",
+      "platforms": [
+        "iOS",
+        "iPadOS",
+        "macOS"
+      ],
+      "discount": "80% off",
+      "prices": [
+        {
+          "plan": "One-time purchase",
+          "before": 4.99,
+          "after": 0.99
+        }
+      ],
+      "terms": "App Store price drop, no code needed. One purchase covers iPhone, iPad and Mac. US price; local prices vary.",
+      "starts": "2026-11-26",
+      "ends": "2026-11-30",
+      "maker": "Tom Dyess",
+      "makerUrl": "https://www.dysr.com",
+      "addedAt": "2026-11-24T05:17:54.000Z"
+    },
+    {
+      "id": "sleep-sounds",
+      "name": "Sleep Sounds",
+      "url": "https://apps.apple.com/us/app/sleep-sounds/id390555459",
+      "category": "health",
+      "description": "Mix 36 looping nature sounds (rain, ocean, birds, fire, a new Cafe) at your own volumes, save mixes and set a sleep timer.",
+      "platforms": [
+        "iOS",
+        "iPadOS",
+        "macOS"
+      ],
+      "discount": "80% off",
+      "prices": [
+        {
+          "plan": "One-time purchase",
+          "before": 4.99,
+          "after": 0.99
+        }
+      ],
+      "terms": "App Store price drop, no code needed. One purchase covers iPhone, iPad and Mac. US price; local prices vary.",
+      "starts": "2026-11-26",
+      "ends": "2026-11-30",
+      "maker": "Tom Dyess",
+      "makerUrl": "https://www.dysr.com",
+      "addedAt": "2026-11-24T05:17:54.000Z"
     },
     {
       "id": "smartinbox",

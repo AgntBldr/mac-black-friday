@@ -1,0 +1,15 @@
+{
+  "name": "Keystro",
+  "url": "https://keystro.app/#pricing",
+  "platforms": ["macOS"],
+  "category": "utilities",
+  "discount": "30% off",
+  "description": "Shows your keystrokes on screen, highlights your cursor and plays mechanical key sounds for presentations, tutorials and streams.",
+  "code": "BFKEYSTRO26",
+  "prices": [
+    { "plan": "Standard", "before": 6.99, "after": 4.89 },
+    { "plan": "Extended", "before": 14, "after": 9.8 },
+    { "plan": "Team", "before": 39, "after": 27.3 }
+  ],
+  "ends": "2026-12-04"
+}

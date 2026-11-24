@@ -1,0 +1,26 @@
+{
+  "name": "Pagi",
+  "url": "https://apps.apple.com/app/apple-store/id1586446074?pt=123127751&ct=boltai.com&mt=8",
+  "platforms": [
+    "macOS",
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "writing",
+  "description": "A calm writing app for morning pages, with a focus mode that highlights your current sentence, a word counter and writing goals.",
+  "discount": "50% off Lifetime",
+  "code": "INDIEAPPSALES2026",
+  "prices": [
+    {
+      "plan": "Lifetime",
+      "before": 9.99,
+      "after": 4.99
+    }
+  ],
+  "terms": "One-time in-app purchase. Redeem the offer code in the App Store. US price, local prices vary.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "maker": "Lucas Fischer",
+  "makerUrl": "https://lucas.love",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/04/c8/7904c8e1-15f2-66db-7b6f-19e6e06070f4/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg"
+}
