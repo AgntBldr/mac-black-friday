@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T10:02:01.752Z",
+  "updatedAt": "2026-11-24T11:02:06.594Z",
   "categories": [
     {
       "id": "ai",
@@ -2867,6 +2867,29 @@
       "makerUrl": "https://aqibjaved.dev",
       "icon": "https://aqibjaved.dev/assets/nt-icon-glow.webp",
       "addedAt": "2026-11-17T08:10:21.000Z"
+    },
+    {
+      "id": "note",
+      "name": "Note",
+      "url": "https://apps.apple.com/app/note/id1602765272",
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "writing",
+      "discount": "40% off",
+      "description": "Keep what you really care about in focus with this mini notes app & widget. It’s like a pinned note in its own app.",
+      "prices": [
+        {
+          "plan": "One-time purchase",
+          "before": 4.99,
+          "after": 2.99
+        }
+      ],
+      "starts": "2026-11-19",
+      "ends": "2026-12-01",
+      "icon": "https://nonzerosumness.com/note/AppIcon.png",
+      "addedAt": "2026-11-24T11:01:55.000Z"
     },
     {
       "id": "noteline",
