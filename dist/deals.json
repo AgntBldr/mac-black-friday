@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T05:18:28.175Z",
+  "updatedAt": "2026-11-24T05:18:44.363Z",
   "categories": [
     {
       "id": "ai",
@@ -290,6 +290,27 @@
       "ends": "2026-12-15",
       "makerUrl": "https://www.babapic.cc/",
       "addedAt": "2026-11-22T16:19:22.000Z"
+    },
+    {
+      "id": "bandje",
+      "name": "Band·je",
+      "url": "https://band.je/",
+      "platforms": [
+        "macOS",
+        "iOS",
+        "iPadOS",
+        "watchOS"
+      ],
+      "category": "launch",
+      "discount": "Launch price €9.99",
+      "description": "Record calls on your Mac without a bot and get the transcript with who said what, on device in 25 languages, plus fast dictation for prompting.",
+      "code": "BLACKFRIDAY",
+      "terms": "Band·je Unlimited, one-time purchase (normally €19.99). Code for the band.je download; App Store price already lowered, no code.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "icon": "https://band.je/icon-512.png",
+      "makerUrl": "https://band.je/",
+      "addedAt": "2026-11-24T05:18:35.000Z"
     },
     {
       "id": "barcodecraft",
