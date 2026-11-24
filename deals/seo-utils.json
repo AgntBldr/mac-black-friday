@@ -1,0 +1,16 @@
+{
+  "name": "SEO Utils",
+  "url": "https://seoutils.app/?utm_source=mac-black-friday&utm_medium=github&utm_campaign=bf2026#pricing",
+  "platforms": ["macOS"],
+  "category": "other",
+  "description": "All-in-one SEO app for Mac: track rankings on Google, Maps, ChatGPT and AI Overviews, with keyword clustering, Search Console history and an MCP server.",
+  "discount": "Lifetime $249 or 20% off",
+  "code": "BF26",
+  "prices": [
+    { "plan": "Lifetime", "after": 249 },
+    { "plan": "Desktop License Key", "after": 63.20 }
+  ],
+  "terms": "BF26 is for the Desktop License Key; Lifetime needs no code. Bulk Autocomplete is free to try: https://app.seoutils.app/downloads",
+  "starts": "2026-11-10",
+  "ends": "2026-12-07"
+}
