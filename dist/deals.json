@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T02:19:20.333Z",
+  "updatedAt": "2026-11-25T05:11:17.992Z",
   "categories": [
     {
       "id": "ai",
@@ -2050,6 +2050,31 @@
       "terms": "Web purchase only; no active subscription; no trial. Use the same email in app. Renews $39.99/year. Ends Nov 30, 21:00 UTC.",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/88/b1/2888b147-8f82-612f-8eaf-6003d976f046/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
       "addedAt": "2026-11-18T02:09:03.000Z"
+    },
+    {
+      "id": "hazeover",
+      "name": "HazeOver",
+      "url": "https://hazeover.com/buynow.html",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Dims background windows to highlight the active one, so you always know where you’re typing. Native Mac app since 2011.",
+      "discount": "60% off",
+      "prices": [
+        {
+          "plan": "One-time purchase",
+          "before": 4.99,
+          "after": 1.99
+        }
+      ],
+      "terms": "No code needed. One-time purchase, no subscription. Same price on the Mac App Store and hazeover.com.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "maker": "Maxim Ananov",
+      "makerUrl": "https://hazeover.com",
+      "icon": "https://hazeover.com/images/hazeover1024.png",
+      "addedAt": "2026-11-25T05:11:09.000Z"
     },
     {
       "id": "home-pet-monitor",
@@ -4179,6 +4204,33 @@
       "maker": "Cindori",
       "makerUrl": "https://cindori.com",
       "addedAt": "2026-11-24T11:07:57.000Z"
+    },
+    {
+      "id": "seo-utils",
+      "name": "SEO Utils",
+      "url": "https://seoutils.app/?utm_source=mac-black-friday&utm_medium=github&utm_campaign=bf2026#pricing",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "other",
+      "description": "All-in-one SEO app for Mac: track rankings on Google, Maps, ChatGPT and AI Overviews, with keyword clustering, Search Console history and an MCP server.",
+      "discount": "Lifetime $249 or 20% off",
+      "code": "BF26",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "after": 249
+        },
+        {
+          "plan": "Desktop License Key",
+          "before": 79,
+          "after": 63.2
+        }
+      ],
+      "terms": "BF26 is for the Desktop License Key; Lifetime needs no code. Bulk Autocomplete is free to try: https://app.seoutils.app/downloads",
+      "starts": "2026-11-10",
+      "ends": "2026-12-07",
+      "addedAt": "2026-11-25T02:58:59.000Z"
     },
     {
       "id": "shellhistory",
