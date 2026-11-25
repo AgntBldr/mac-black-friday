@@ -1,0 +1,15 @@
+{
+  "name": "Meboki",
+  "url": "https://meboki.com/#pricing",
+  "platforms": ["macOS"],
+  "category": "launch",
+  "description": "Private grammar checker for Mac: an open-source AI model runs on your Mac and fixes your English in any app, offline. No account, no cloud.",
+  "discount": "Launch price $29",
+  "prices": [{ "plan": "Licence (1 Mac)", "before": 39, "after": 29 }],
+  "terms": "No code: applied at checkout. One-time licence for 1 Mac, all updates included. 7-day free trial. macOS 14+, Apple silicon. Ends Dec 1 Pacific.",
+  "starts": "2026-11-21",
+  "ends": "2026-12-01",
+  "maker": "Meboki",
+  "makerUrl": "https://meboki.com",
+  "icon": "https://meboki.com/apple-icon.png"
+}
