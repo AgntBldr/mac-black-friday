@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T17:19:38.309Z",
+  "updatedAt": "2026-11-25T20:11:48.698Z",
   "categories": [
     {
       "id": "ai",
@@ -5888,7 +5888,7 @@
     {
       "id": "vibe-island",
       "name": "Vibe Island",
-      "url": "https://vibeisland.app/#pricing",
+      "url": "https://vibeisland.app/?ref=boltai-blackfriday#pricing",
       "platforms": [
         "macOS"
       ],
