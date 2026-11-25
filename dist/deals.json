@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T14:54:43.348Z",
+  "updatedAt": "2026-11-25T15:11:21.947Z",
   "categories": [
     {
       "id": "ai",
@@ -2739,6 +2739,24 @@
       "makerUrl": "https://x.com/okooo5km",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/1f/0c/c61f0c3a-e808-f492-c24e-5853fe30398d/logo-0-0-85-220-0-6-0-2x.png/512x512bb.png",
       "addedAt": "2026-11-16T14:11:06.000Z"
+    },
+    {
+      "id": "loudwell",
+      "name": "Loudwell",
+      "url": "https://loudwell.app/black-friday/?s=bf-bolt",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Plans a week of social posts from the photos on your Mac, writes captions in your voice and waits for your yes on iPhone. Runs on your own AI key.",
+      "discount": "40% off first year",
+      "code": "BF40",
+      "terms": "Solo £49.99 → £29.99, Studio £99.99 → £59.99 for the first year (monthly too). First paid plan only, no other codes. Apple silicon Mac; 7 days free, no card.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "maker": "Loudwell",
+      "makerUrl": "https://loudwell.app/",
+      "addedAt": "2026-11-25T15:10:59.000Z"
     },
     {
       "id": "mac-4-breakfast",
