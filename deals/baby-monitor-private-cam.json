@@ -1,0 +1,15 @@
+{
+  "name": "Baby Monitor: Private Cam",
+  "url": "https://apps.apple.com/redeem?ctx=offercodes&id=6785552555&code=BLACKFRIDAY50",
+  "platforms": ["iOS"],
+  "category": "other",
+  "description": "Private baby monitor that turns two phones into a monitor over your home WiFi, with no cloud and no account.",
+  "discount": "50% off first year",
+  "code": "BLACKFRIDAY50",
+  "prices": [{ "plan": "Pro yearly, first year", "before": 14.99, "after": 7.49 }],
+  "ends": "2026-12-01",
+  "starts": "2026-11-25",
+  "terms": "iPhone only, Android has no discount. Offer code in the App Store for new and returning subscribers. We are the makers.",
+  "maker": "DedalDev",
+  "makerUrl": "https://privatebabymonitor.com"
+}
