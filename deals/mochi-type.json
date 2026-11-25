@@ -1,0 +1,22 @@
+{
+  "name": "Mochi Type",
+  "url": "https://apps.apple.com/us/app/mochi-type-typing-practice/id6766949692?ct=bf26_longsee&mt=12",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "education",
+  "description": "Typing trainer for Mac: a guided touch-typing course from the first key, plus practice on real words in 21 languages, on your own keyboard layout.",
+  "discount": "54% off",
+  "prices": [
+    {
+      "plan": "Mochi Unlock (one-time)",
+      "before": 12.99,
+      "after": 5.99
+    }
+  ],
+  "terms": "Mac App Store price, no code. Free to download; the unlock is a one-time purchase.",
+  "starts": "2026-11-26",
+  "ends": "2026-12-01",
+  "maker": "OrsoLabs",
+  "makerUrl": "https://orsolabs.dev"
+}
