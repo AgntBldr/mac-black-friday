@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:13:42.752Z",
+  "updatedAt": "2026-11-25T02:13:20.209Z",
   "categories": [
     {
       "id": "ai",
@@ -3332,6 +3332,32 @@
       "makerUrl": "https://pasteapp.io",
       "icon": "https://pasteapp.io/icons/icon-512.png",
       "addedAt": "2026-11-20T11:33:39.000Z"
+    },
+    {
+      "id": "pastelo",
+      "name": "Pastelo",
+      "url": "https://pastelo.store",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "description": "Clipboard history for Mac: press Shift Command V in any app to search and paste anything you copied. Encrypted on your Mac, nothing uploaded.",
+      "discount": "Launch price $7.69",
+      "code": "BLACKFRIDAY",
+      "prices": [
+        {
+          "plan": "Pro (one-time)",
+          "before": 10.99,
+          "after": 7.69
+        }
+      ],
+      "terms": "One-time purchase for up to 2 Macs, no subscription. macOS 14+. Free version and 3-day Pro trial. Ends Nov 30, midnight Pacific.",
+      "starts": "2026-11-24",
+      "ends": "2026-11-30",
+      "maker": "Pastelo",
+      "makerUrl": "https://pastelo.store",
+      "icon": "https://pastelo.store/apple-icon.png",
+      "addedAt": "2026-11-25T02:13:09.000Z"
     },
     {
       "id": "pastepal",
