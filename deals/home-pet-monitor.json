@@ -1,0 +1,15 @@
+{
+  "name": "Home Pet Monitor",
+  "url": "https://apps.apple.com/redeem?ctx=offercodes&id=6790505643&code=BLACKFRIDAY50",
+  "platforms": ["iOS"],
+  "category": "launch",
+  "description": "Turn an old phone into a private pet camera and watch your cat or dog live, encrypted end to end, with no cloud recording.",
+  "discount": "Launch price $7.49",
+  "code": "BLACKFRIDAY50",
+  "prices": [{ "plan": "Pro yearly, first year", "before": 14.99, "after": 7.49 }],
+  "ends": "2026-12-01",
+  "starts": "2026-11-25",
+  "terms": "First year of Pro yearly, regular $14.99. iPhone only, Android has no discount. App released Nov 18. We are the makers.",
+  "maker": "DedalDev",
+  "makerUrl": "https://homepetmonitor.com"
+}

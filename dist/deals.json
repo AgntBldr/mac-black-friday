@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T14:14:05.211Z",
+  "updatedAt": "2026-11-25T02:19:20.333Z",
   "categories": [
     {
       "id": "ai",
@@ -290,6 +290,31 @@
       "ends": "2026-12-15",
       "makerUrl": "https://www.babapic.cc/",
       "addedAt": "2026-11-22T16:19:22.000Z"
+    },
+    {
+      "id": "baby-monitor-private-cam",
+      "name": "Baby Monitor: Private Cam",
+      "url": "https://apps.apple.com/redeem?ctx=offercodes&id=6785552555&code=BLACKFRIDAY50",
+      "platforms": [
+        "iOS"
+      ],
+      "category": "other",
+      "description": "Private baby monitor that turns two phones into a monitor over your home WiFi, with no cloud and no account.",
+      "discount": "50% off first year",
+      "code": "BLACKFRIDAY50",
+      "prices": [
+        {
+          "plan": "Pro yearly, first year",
+          "before": 14.99,
+          "after": 7.49
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-25",
+      "terms": "iPhone only, Android has no discount. Offer code in the App Store for new and returning subscribers. We are the makers.",
+      "maker": "DedalDev",
+      "makerUrl": "https://privatebabymonitor.com",
+      "addedAt": "2026-11-25T02:19:09.000Z"
     },
     {
       "id": "backdrop",
@@ -2027,6 +2052,31 @@
       "addedAt": "2026-11-18T02:09:03.000Z"
     },
     {
+      "id": "home-pet-monitor",
+      "name": "Home Pet Monitor",
+      "url": "https://apps.apple.com/redeem?ctx=offercodes&id=6790505643&code=BLACKFRIDAY50",
+      "platforms": [
+        "iOS"
+      ],
+      "category": "launch",
+      "description": "Turn an old phone into a private pet camera and watch your cat or dog live, encrypted end to end, with no cloud recording.",
+      "discount": "Launch price $7.49",
+      "code": "BLACKFRIDAY50",
+      "prices": [
+        {
+          "plan": "Pro yearly, first year",
+          "before": 14.99,
+          "after": 7.49
+        }
+      ],
+      "ends": "2026-12-01",
+      "starts": "2026-11-25",
+      "terms": "First year of Pro yearly, regular $14.99. iPhone only, Android has no discount. App released Nov 18. We are the makers.",
+      "maker": "DedalDev",
+      "makerUrl": "https://homepetmonitor.com",
+      "addedAt": "2026-11-25T02:19:09.000Z"
+    },
+    {
       "id": "iknowmydisplay",
       "name": "iKnowMyDisplay",
       "url": "https://iknowmydisplay.com",
@@ -3334,6 +3384,32 @@
       "addedAt": "2026-11-20T11:33:39.000Z"
     },
     {
+      "id": "pastelo",
+      "name": "Pastelo",
+      "url": "https://pastelo.store",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "description": "Clipboard history for Mac: press Shift Command V in any app to search and paste anything you copied. Encrypted on your Mac, nothing uploaded.",
+      "discount": "Launch price $7.69",
+      "code": "BLACKFRIDAY",
+      "prices": [
+        {
+          "plan": "Pro (one-time)",
+          "before": 10.99,
+          "after": 7.69
+        }
+      ],
+      "terms": "One-time purchase for up to 2 Macs, no subscription. macOS 14+. Free version and 3-day Pro trial. Ends Nov 30, midnight Pacific.",
+      "starts": "2026-11-24",
+      "ends": "2026-11-30",
+      "maker": "Pastelo",
+      "makerUrl": "https://pastelo.store",
+      "icon": "https://pastelo.store/apple-icon.png",
+      "addedAt": "2026-11-25T02:13:09.000Z"
+    },
+    {
       "id": "pastepal",
       "name": "PastePal",
       "url": "https://indiegoodies.com/pastepal",
@@ -3850,6 +3926,29 @@
       "starts": "2026-11-24",
       "terms": "Automatically applied to the one-time in-app purchase. No code needed. November 24–30, 2026.",
       "addedAt": "2026-11-09T13:23:44.000Z"
+    },
+    {
+      "id": "screen-folders",
+      "name": "Screen Folders",
+      "url": "https://screenfolders.delitx.dev/pricing",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "Keeps real Finder folders on your desktop as compact tiles that expand into a file grid when you hover over them.",
+      "discount": "33% off",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 15,
+          "after": 10
+        }
+      ],
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "terms": "Direct download edition, no code needed. Sale ends Dec 1 at 12:00 UTC. 14-day free trial. Requires macOS 26 or later.",
+      "icon": "https://screenfolders.delitx.dev/app-icon-512.png",
+      "addedAt": "2026-11-24T20:13:34.000Z"
     },
     {
       "id": "screenkite",
