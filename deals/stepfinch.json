@@ -1,0 +1,23 @@
+{
+  "name": "Stepfinch",
+  "url": "https://stepfinch.app/?utm_source=boltai-bf&utm_campaign=bf2026#pricing",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "launch",
+  "description": "Turns a task you do once into a step-by-step guide: a screenshot of every click, the steps written for you, private info blurred. Everything stays on your Mac.",
+  "discount": "Launch price $29",
+  "prices": [
+    {
+      "plan": "Lifetime",
+      "before": 39,
+      "after": 29
+    }
+  ],
+  "terms": "No code, applied at checkout. One payment: up to 3 Macs, every update. 3 guides free to try first. $39 from Dec 2. Apple silicon, macOS 14+.",
+  "starts": "2026-11-23",
+  "ends": "2026-12-01",
+  "maker": "Telman Gadimov",
+  "makerUrl": "https://stepfinch.app",
+  "icon": "https://stepfinch.app/assets/icon-512.png"
+}
