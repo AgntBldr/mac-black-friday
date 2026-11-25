@@ -1,0 +1,16 @@
+{
+  "name": "Loudwell",
+  "url": "https://loudwell.app/black-friday/?s=bf-bolt",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "productivity",
+  "description": "Plans a week of social posts from the photos on your Mac, writes captions in your voice and waits for your yes on iPhone. Runs on your own AI key.",
+  "discount": "40% off first year",
+  "code": "BF40",
+  "terms": "Solo £49.99 → £29.99, Studio £99.99 → £59.99 for the first year (monthly too). First paid plan only, no other codes. Apple silicon Mac; 7 days free, no card.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "maker": "Loudwell",
+  "makerUrl": "https://loudwell.app/"
+}
