@@ -1,6 +1,6 @@
 {
   "name": "Vibe Island",
-  "url": "https://vibeisland.app/#pricing",
+  "url": "https://vibeisland.app/?ref=boltai-blackfriday#pricing",
   "platforms": ["macOS"],
   "category": "developer",
   "description": "Shows what Claude Code, Codex and other coding agents are doing in your Mac's notch. Approve requests there or jump to the right terminal tab.",
