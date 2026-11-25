@@ -1,0 +1,22 @@
+{
+  "name": "ShiftApp",
+  "url": "https://shiftapp.com/black-friday",
+  "platforms": [
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "productivity",
+  "description": "Employee scheduling on iPhone and iPad. Plan employee shifts, manage time off and share schedules with staff.",
+  "discount": "88% off first 8 months",
+  "code": "BLACKFRIDAY2026",
+  "prices": [
+    {
+      "plan": "Essential E10 (monthly)",
+      "before": 24,
+      "after": 2.88
+    }
+  ],
+  "ends": "2026-12-12",
+  "terms": "New Essential monthly orders on the web. USD prices before tax. The code applies automatically. Regular monthly pricing after 8 months.",
+  "maker": "Jason Lee Limited"
+}
