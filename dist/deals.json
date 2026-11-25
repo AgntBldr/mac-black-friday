@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T17:18:41.550Z",
+  "updatedAt": "2026-11-25T17:19:09.988Z",
   "categories": [
     {
       "id": "ai",
@@ -4196,6 +4196,33 @@
       "ends": "2026-12-01",
       "makerUrl": "https://x.com/realMikeChong",
       "addedAt": "2026-11-23T15:16:56.000Z"
+    },
+    {
+      "id": "screenpipe",
+      "name": "Screenpipe",
+      "url": "https://screenpipe.com/black-friday?utm_source=boltai&utm_medium=referral&utm_campaign=black_friday_2026",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "ai",
+      "discount": "20% off your first year",
+      "description": "Search your screen and audio history and give Claude, Codex, or other compatible AI tools context from your work.",
+      "prices": [
+        {
+          "plan": "Basic annual",
+          "before": 250,
+          "after": 200
+        },
+        {
+          "plan": "Business annual per seat",
+          "before": 500,
+          "after": 400
+        }
+      ],
+      "starts": "2026-11-25",
+      "ends": "2026-11-30",
+      "terms": "Eligible annual plans. Ends at 11:59 p.m. PT. Discount applied automatically. Renews at list price. Cannot be combined with other discounts.",
+      "addedAt": "2026-11-25T17:18:59.000Z"
     },
     {
       "id": "screenpost",
