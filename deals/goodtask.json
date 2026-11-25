@@ -1,0 +1,25 @@
+{
+  "name": "GoodTask",
+  "url": "https://forum.goodtaskapp.com/t/black-friday-sale-2026/3550",
+  "platforms": [
+    "macOS",
+    "iOS",
+    "iPadOS",
+    "visionOS",
+    "watchOS"
+  ],
+  "category": "productivity",
+  "discount": "50% Off",
+  "description": "GoodTask is a task manager app that runs on top of Apple's Reminders app and Calendars app. It has many added-on features to bring rich and powerful experience.",
+  "prices": [
+    {
+      "plan": "Paid app",
+      "before": 39.99,
+      "after": 19.99
+    }
+  ],
+  "terms": "All new users",
+  "starts": "2026-11-24",
+  "ends": "2026-12-01",
+  "makerUrl": "https://goodtaskapp.com"
+}
