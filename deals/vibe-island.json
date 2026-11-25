@@ -1,9 +1,9 @@
 {
   "name": "Vibe Island",
-  "url": "https://vibeisland.app/?ref=boltai-blackfriday",
+  "url": "https://vibeisland.app/?ref=boltai-blackfriday#pricing",
   "platforms": ["macOS"],
   "category": "developer",
-  "description": "Dynamic Island for AI coding agents: see Claude Code, Codex and 28 more in the Mac notch, approve or answer them there, jump back to the right terminal",
+  "description": "Shows what Claude Code, Codex and other coding agents are doing in your Mac's notch. Approve requests there or jump to the right terminal tab.",
   "discount": "40% off",
   "prices": [
     { "plan": "1 Mac", "before": 19.99, "after": 11.99 },
