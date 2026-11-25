@@ -1,0 +1,22 @@
+{
+  "name": "Focusito",
+  "url": "https://apps.apple.com/us/app/focusito-lofi-pomodoro-timer/id1473808464?ct=bf26_longsee&mt=12",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "productivity",
+  "description": "Mac-native Pomodoro timer with a built-in LoFi player and ambient sounds. Paste a YouTube link to add your own station.",
+  "discount": "50% off",
+  "prices": [
+    {
+      "plan": "Full version (one-time)",
+      "before": 9.99,
+      "after": 4.99
+    }
+  ],
+  "terms": "Mac App Store price, no code. Free to download; the unlock is a one-time purchase.",
+  "starts": "2026-11-26",
+  "ends": "2026-12-01",
+  "maker": "OrsoLabs",
+  "makerUrl": "https://orsolabs.dev"
+}
