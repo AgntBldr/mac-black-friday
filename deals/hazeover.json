@@ -1,0 +1,15 @@
+{
+  "name": "HazeOver",
+  "url": "https://hazeover.com/buynow.html",
+  "platforms": ["macOS"],
+  "category": "utilities",
+  "description": "Dims background windows to highlight the active one, so you always know where you’re typing. Native Mac app since 2011.",
+  "discount": "60% off",
+  "prices": [{ "plan": "One-time purchase", "before": 4.99, "after": 1.99 }],
+  "terms": "No code needed. One-time purchase, no subscription. Same price on the Mac App Store and hazeover.com.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "maker": "Maxim Ananov",
+  "makerUrl": "https://hazeover.com",
+  "icon": "https://hazeover.com/images/hazeover1024.png"
+}
