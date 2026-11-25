@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T15:11:21.947Z",
+  "updatedAt": "2026-11-25T17:18:15.491Z",
   "categories": [
     {
       "id": "ai",
@@ -221,6 +221,30 @@
       "makerUrl": "https://x.com/matteo_spada",
       "icon": "https://tryastro.app/icon.webp",
       "addedAt": "2026-11-23T10:00:18.000Z"
+    },
+    {
+      "id": "audiobo",
+      "name": "AudioBo",
+      "url": "https://apps.apple.com/us/app/audiobo-m4b-audiobook-maker/id6754019673?ct=bf26_longsee&mt=12",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "audio-video",
+      "description": "Turns audio files into M4B audiobooks with proper chapters and clean metadata, ready for Apple Books, Music, CarPlay and classic iPods.",
+      "discount": "50% off",
+      "prices": [
+        {
+          "plan": "AudioBo (paid app)",
+          "before": 9.99,
+          "after": 4.99
+        }
+      ],
+      "terms": "Mac App Store price, no code. Paid app, one-time purchase.",
+      "starts": "2026-11-26",
+      "ends": "2026-12-01",
+      "maker": "OrsoLabs",
+      "makerUrl": "https://orsolabs.dev",
+      "addedAt": "2026-11-25T17:18:05.000Z"
     },
     {
       "id": "audiorecorder-app",
@@ -1820,6 +1844,30 @@
       "addedAt": "2026-11-09T13:22:25.000Z"
     },
     {
+      "id": "filebo",
+      "name": "FileBo",
+      "url": "https://apps.apple.com/us/app/filebo-recent-files-items/id6785596150?ct=bf26_longsee&mt=12",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "A pop-up window with the files and folders you recently used, changed, saved or downloaded on your Mac. Open them or drag them into any app.",
+      "discount": "50% off",
+      "prices": [
+        {
+          "plan": "FileBo Unlock (one-time)",
+          "before": 9.99,
+          "after": 4.99
+        }
+      ],
+      "terms": "Mac App Store price, no code. Free to download; the unlock is a one-time purchase.",
+      "starts": "2026-11-26",
+      "ends": "2026-12-01",
+      "maker": "OrsoLabs",
+      "makerUrl": "https://orsolabs.dev",
+      "addedAt": "2026-11-25T17:18:05.000Z"
+    },
+    {
       "id": "fileoctopus",
       "name": "FileOctopus",
       "url": "https://www.fileoctopus.com/black-friday.html",
@@ -1909,6 +1957,30 @@
       "makerUrl": "https://float.gilla.fun/",
       "icon": "https://float.gilla.fun/icon.png",
       "addedAt": "2026-11-18T17:12:18.000Z"
+    },
+    {
+      "id": "focusito",
+      "name": "Focusito",
+      "url": "https://apps.apple.com/us/app/focusito-lofi-pomodoro-timer/id1473808464?ct=bf26_longsee&mt=12",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "Mac-native Pomodoro timer with a built-in LoFi player and ambient sounds. Paste a YouTube link to add your own station.",
+      "discount": "50% off",
+      "prices": [
+        {
+          "plan": "Full version (one-time)",
+          "before": 9.99,
+          "after": 4.99
+        }
+      ],
+      "terms": "Mac App Store price, no code. Free to download; the unlock is a one-time purchase.",
+      "starts": "2026-11-26",
+      "ends": "2026-12-01",
+      "maker": "OrsoLabs",
+      "makerUrl": "https://orsolabs.dev",
+      "addedAt": "2026-11-25T17:18:05.000Z"
     },
     {
       "id": "foliosort",
@@ -2945,6 +3017,30 @@
       "makerUrl": "https://meboki.com",
       "icon": "https://meboki.com/apple-icon.png",
       "addedAt": "2026-11-25T14:12:13.000Z"
+    },
+    {
+      "id": "mochi-type",
+      "name": "Mochi Type",
+      "url": "https://apps.apple.com/us/app/mochi-type-typing-practice/id6766949692?ct=bf26_longsee&mt=12",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "education",
+      "description": "Typing trainer for Mac: a guided touch-typing course from the first key, plus practice on real words in 21 languages, on your own keyboard layout.",
+      "discount": "54% off",
+      "prices": [
+        {
+          "plan": "Mochi Unlock (one-time)",
+          "before": 12.99,
+          "after": 5.99
+        }
+      ],
+      "terms": "Mac App Store price, no code. Free to download; the unlock is a one-time purchase.",
+      "starts": "2026-11-26",
+      "ends": "2026-12-01",
+      "maker": "OrsoLabs",
+      "makerUrl": "https://orsolabs.dev",
+      "addedAt": "2026-11-25T17:18:05.000Z"
     },
     {
       "id": "moneywiz",
