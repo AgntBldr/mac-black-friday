@@ -1,0 +1,27 @@
+{
+  "name": "BlendCue",
+  "url": "https://blendcue.com/?ref=bf-boltai",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "launch",
+  "description": "Companion app for Serato DJ Pro that shortlists the next track from your own library by key, BPM, energy and genre.",
+  "discount": "Launch price $29",
+  "code": "FOUNDINGSOLO",
+  "prices": [
+    {
+      "plan": "Solo",
+      "before": 49,
+      "after": 29
+    },
+    {
+      "plan": "Pro",
+      "before": 79,
+      "after": 49
+    }
+  ],
+  "ends": "2026-12-15",
+  "maker": "BlendCue",
+  "makerUrl": "https://blendcue.com",
+  "terms": "Founding price for the first 25 buyers. Pro: code FOUNDINGPRO."
+}
